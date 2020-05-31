@@ -23,7 +23,7 @@
     <published>2020-05-22T17:52:56.000Z</published>
     <updated>2020-05-30T13:18:20.484Z</updated>
     
-    <content type="html"><![CDATA[<p>I am a Doctor of  mathematics graduated from AMSS, UCAS. 😀</p><img data-src="/2020/05/23/index/daiyuzanghua.jpg" class><font size="2">Painter： 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty).</font>]]></content>
+    <content type="html"><![CDATA[<p>I am a Doctor of  mathematics graduated from AMSS, UCAS. 😀</p><img data-src="/2020/05/23/index/daiyuzanghua.jpg" class><p><font size="2">Painter： 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty).</font></p>]]></content>
     
     <summary type="html">
     
@@ -31,7 +31,7 @@
       
         &lt;p&gt;I am a Doctor of  mathematics graduated from AMSS, UCAS. 😀&lt;/p&gt;
 &lt;img data-src=&quot;/2020/05/23/index/daiyuzanghua.jpg&quot; class&gt;
-&lt;font size=&quot;2&quot;&gt;
+&lt;p&gt;&lt;font size=&quot;
       
     
     </summary>
