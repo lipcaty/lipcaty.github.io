@@ -27,6 +27,59 @@
       </script>]]></content>
   </entry>
   <entry>
+    <title>Curriculum Vitae</title>
+    <url>/CV/index.html</url>
+    <content><![CDATA[<p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
+<div class="note "><h4>Personal Info</h4></div>  
+<ul>
+<li>Basic: Born at Gao’an city, Jiangxi province, People’s Republic of China.</li>
+<li>Title: Dr. Pengcheng Li, graduated from AMSS, UCAS in 2020.</li>
+<li>Email: <span class="exturl" data-url="bWFpbHRvOnhpYW90aWFuc2hpc2hvdUAxNjMuY29t">xiaotianshishou@163.com<i class="fa fa-external-link-alt"></i></span> or <span class="exturl" data-url="bWFpbHRvOmxpcGNhdHlAYW1zcy5hYy5jbg==">lipcaty@amss.ac.cn<i class="fa fa-external-link-alt"></i></span></li>
+<li>Address: AMSS, UCAS, No.55 Zhongguancun Road, Haidian District, Beijing, China (100190).</li>
+</ul>
+<div class="note "><h4>Background</h4></div>  
+<ul>
+<li>
+<p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Researcher Jianzhong Pan.</p>
+</li>
+<li>
+<p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p>
+</li>
+</ul>
+<div class="note "><h4>Research Interests</h4></div>  
+<ul>
+<li>
+<p>Homotopy theory. I am particularly interested in the homotopy theory of Moore spaces and Chang complexes. I am also interested in the homotopy theory of Poincaré Duality complexes and manifolds.</p>
+</li>
+<li>
+<p>Mathematical education.</p>
+</li>
+</ul>
+<hr>
+<div style="text-align:center;"><a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
+<i class="far fa-file-pdf fa-fw fa-lg"></i>PDF Copy
+</a></div>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
     <title>Other Stuff</title>
     <url>/other-stuff/index.html</url>
     <content><![CDATA[<p>✍</p>
@@ -51,73 +104,12 @@
       </script>]]></content>
   </entry>
   <entry>
-    <title>Curriculum Vitae</title>
-    <url>/CV/index.html</url>
-    <content><![CDATA[<p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
-<div class="note ">
-            <h4>Personal Info</h4>
-          </div>  
-<ul>
-<li>Basic: Born at Gao’an city, Jiangxi province, People’s Republic of China.</li>
-<li>Title: Dr. Pengcheng Li, graduated from AMSS, UCAS in 2020.</li>
-<li>Email: <span class="exturl" data-url="bWFpbHRvOnhpYW90aWFuc2hpc2hvdUAxNjMuY29t">xiaotianshishou@163.com<i class="fa fa-external-link-alt"></i></span> or <span class="exturl" data-url="bWFpbHRvOmxpcGNhdHlAYW1zcy5hYy5jbg==">lipcaty@amss.ac.cn<i class="fa fa-external-link-alt"></i></span></li>
-<li>Address: AMSS, UCAS, No.55 Zhongguancun Road, Haidian District, Beijing, China (100190).</li>
-</ul>
-<div class="note ">
-            <h4>Background</h4>
-          </div>  
-<ul>
-<li>
-<p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Researcher Jianzhong Pan.</p>
-</li>
-<li>
-<p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p>
-</li>
-</ul>
-<div class="note ">
-            <h4>Research Interests</h4>
-          </div>  
-<ul>
-<li>
-<p>Homotopy theory. I am particularly interested in the homotopy theory of Moore spaces and Chang complexes. I am also interested in the homotopy theory of Poincaré Duality complexes and manifolds.</p>
-</li>
-<li>
-<p>Mathematical education.</p>
-</li>
-</ul>
-<hr>
-<div style="text-align:center;"><a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
-            <i class="far fa-file-pdf fa-fw fa-lg"></i>PDF Copy
-          </a></div>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
     <title>Publications</title>
     <url>/publications/index.html</url>
-    <content><![CDATA[<div class="note ">
-            <h4> Articles/Preprints</h4>
-          </div>
+    <content><![CDATA[<div class="note "><h4> Articles/Preprints</h4></div>
 <ul>
 <li>
-<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes <span class="katex"><span class="katex-mathml"><math><semantics><mrow><msubsup><mi>C</mi><mi>r</mi><mrow><mi>n</mi><mo>+</mo><mn>2</mn><mo separator="true">,</mo><mi>r</mi></mrow></msubsup></mrow><annotation encoding="application/x-tex">C^{n+2,r}_{r}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.061108em;vertical-align:-0.247em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-2.4530000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">2</span><span class="mpunct mtight">,</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.247em;"><span></span></span></span></span></span></span></span></span></span></em>. Homology, Homotopy and Applications 21.2 (2019): 363-375.<br>
+<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes $C^{n+2,r}_{r}$</em>. Homology, Homotopy and Applications 21.2 (2019): 363-375.<br>
 DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p>
 </li>
 <li>
