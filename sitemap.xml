@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lipcaty.github.io/other-stuff/index.html</loc>
+    
+    <lastmod>2020-06-01T12:58:05.821Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lipcaty.github.io/publications/index.html</loc>
     
     <lastmod>2020-06-01T10:21:56.330Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://lipcaty.github.io/2020/05/23/index/</loc>
     
     <lastmod>2020-06-01T02:11:42.023Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lipcaty.github.io/other-stuff/index.html</loc>
-    
-    <lastmod>2020-06-01T02:02:49.035Z</lastmod>
     
   </url>
   

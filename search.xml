@@ -82,7 +82,29 @@
   <entry>
     <title>Other Stuff</title>
     <url>/other-stuff/index.html</url>
-    <content><![CDATA[<p>✍</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>✍</p>
+
+        <div id="aplayer-avMtCtRd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-avMtCtRd"),
+            narrow: true,
+            autoplay: true,
+            showlrc: false,
+            music: {
+              title: "에잇(8)",
+              author: "IU&SUGA",
+              url: "https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0aFpTWE10UWdRMkpUY0p2P2U9TlBkUHdD.flac",
+              pic: "",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+<p>Share file：IU SUGA - 에잇...TS).flac Share url：https://pan.cstcloud.cn/s/O7tgbrSATgI Expires：2030-06-01 23:59:59</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
