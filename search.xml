@@ -3,7 +3,7 @@
   <entry>
     <title>Welcome to my  webpage on mathematics!</title>
     <url>/2020/05/23/index/</url>
-    <content><![CDATA[<p>I am a Doctor of  mathematics, graduated from Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences (abbr. AMSS, UCAS). 😀</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>I am a Doctor of  mathematics, graduated from Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences (abbr. AMSS, UCAS). 😀</p>
 <img data-src="/2020/05/23/index/daiyuzanghua.jpg" class="">
 <p><font size="2">Painter： 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty).</font></p>
 <script>
@@ -29,7 +29,7 @@
   <entry>
     <title>Curriculum Vitae</title>
     <url>/CV/index.html</url>
-    <content><![CDATA[<p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
 <div class="note "><h4>Personal Info</h4></div>  
 <ul>
 <li>Basic: Born at Gao’an city, Jiangxi province, People’s Republic of China.</li>
@@ -80,31 +80,18 @@
       </script>]]></content>
   </entry>
   <entry>
-    <title>Other Stuff</title>
-    <url>/other-stuff/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>✍</p>
-
-        <div id="aplayer-avMtCtRd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-avMtCtRd"),
-            narrow: true,
-            autoplay: true,
-            showlrc: false,
-            music: {
-              title: "에잇(8)",
-              author: "IU&SUGA",
-              url: "https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0aFpTWE10UWdRMkpUY0p2P2U9TlBkUHdD.flac",
-              pic: "",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-<p>Share file：IU SUGA - 에잇...TS).flac Share url：https://pan.cstcloud.cn/s/O7tgbrSATgI Expires：2030-06-01 23:59:59</p>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note "><h4> Articles/Preprints</h4></div>
+<ul>
+<li>
+<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes $C^{n+2,r}_{r}$</em>. Homology, Homotopy and Applications 21.2 (2019): 363-375.<br>
+DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p>
+</li>
+<li>
+<p>Pengcheng Li. <em>(Co)Homology self-closeness numbers of simply-connected spaces</em>. Arxiv preprint: 1911.03641, accepted for publicaiton in Homotopy, Homology and Applications.</p>
+</li>
+</ul>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -126,18 +113,49 @@
       </script>]]></content>
   </entry>
   <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<div class="note "><h4> Articles/Preprints</h4></div>
-<ul>
-<li>
-<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes $C^{n+2,r}_{r}$</em>. Homology, Homotopy and Applications 21.2 (2019): 363-375.<br>
-DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p>
-</li>
-<li>
-<p>Pengcheng Li. <em>(Co)Homology self-closeness numbers of simply-connected spaces</em>. Arxiv preprint: 1911.03641, accepted for publicaiton in Homotopy, Homology and Applications.</p>
-</li>
-</ul>
+    <title>Other Stuff</title>
+    <url>/other-stuff/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>✍</p>
+
+        <div id="aplayer-VQjdBdsD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-VQjdBdsD"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "에잇(8)",
+              author: "IU&SUGA",
+              url: "https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0aFpTWE10UWdRMkpUY0p2P2U9TlBkUHdD.flac",
+              pic: "",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+<div id="aplayer-nKTJuqJX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+				<pre class="aplayer-lrc-content">[00:18.007]So are you happy now[00:21.942]Finally happy now are you[00:25.957]뭐 그대로야 난 [00:29.446]다 잃어버린 것 같아 [00:33.540]모든 게 맘대로 왔다가 인사도 없이 떠나[00:37.932]이대로는 무엇도 사랑하고 싶지 않아 [00:42.523]다 해질 대로 해져버린 [00:46.307]기억 속을 여행해   [00:49.941]우리는 오렌지 태양 아래 [00:53.641]그림자 없이 함께 춤을 춰 [00:57.441]정해진 이별 따위는 없어  [01:01.523]아름다웠던 그 기억에서 만나  [01:05.773]Forever young   [01:07.392]우우우 우우우우 우우우 우우우우 [01:13.641]Forever we young  [01:15.325]우우우 우우우우 [01:18.625]이런 악몽이라면 영영 깨지 않을게   [01:22.839]섬 그래 여긴 섬 서로가 만든 작은 섬 [01:26.873]예 음 forever young 영원이란 말은 모래성  [01:30.343]작별은 마치 재난문자 같지 [01:32.243]그리움과 같이 맞이하는 아침 [01:34.156]서로가 이 영겁을 지나  [01:36.389]꼭 이 섬에서 다시 만나  [01:37.513]지나듯 날 위로하던 누구의 말대로 고작 [01:41.831]한 뼘짜리 추억을 잊는 게 참 쉽지 않아 [01:46.464]시간이 지나도 여전히 [01:50.313]날 붙드는 그곳에   [01:53.880]우리는 오렌지 태양 아래 [01:57.488]그림자 없이 함께 춤을 춰 [02:01.482]정해진 안녕 따위는 없어  [02:05.563]아름다웠던 그 기억에서 만나   [02:09.880]우리는 서로를 베고 누워 [02:13.498]슬프지 않은 이야기를 나눠 [02:17.430]우울한 결말 따위는 없어 [02:21.500]난 영원히 널 이 기억에서 만나  [02:25.737]Forever young   [02:26.916]우우우 우우우우 우우우 우우우우 [02:33.566]Forever we young [02:35.091]우우우 우우우우 [02:38.562]이런 악몽이라면 영영 깨지 않을게</pre>
+			</div>
+			<script>
+				var ap = new APlayer({
+					element: document.getElementById("aplayer-nKTJuqJX"),
+					narrow: false,
+					autoplay: false,
+					showlrc: 2,
+					music: {
+						title: "에잇",
+						author: "IU&SUGA",
+						url: "https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0aFpTWE10UWdRMkpUY0p2P2U9TlBkUHdD.flac",
+						pic: "https://image.chosun.com/sitedata/image/202005/14/2020051401151_0.jpg",
+					}
+				});
+				window.aplayers || (window.aplayers = []);
+				window.aplayers.push(ap);
+			</script>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
