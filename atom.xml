@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>LipCaty&#39;s Webpage</title>
+  <title>LipCaty&#39;s Website</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lipcaty.github.io/"/>
-  <updated>2020-06-02T17:38:42.028Z</updated>
+  <updated>2020-05-28T15:30:22.228Z</updated>
   <id>https://lipcaty.github.io/</id>
   
   <author>
-    <name>Pengcheng Li</name>
+    <name>Pengcheng Litopology</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Welcome to my  webpage on mathematics!</title>
+    <title>Welcome to my  homepage on mathematics!</title>
     <link href="https://lipcaty.github.io/index/"/>
     <id>https://lipcaty.github.io/index/</id>
     <published>2020-05-28T15:30:22.228Z</published>
-    <updated>2020-06-02T17:38:42.028Z</updated>
+    <updated>2020-05-28T15:30:22.228Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>I am a Doctor of mathematics, graduated from Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences (abbr. AMSS, UCAS). 😀</p><img data-src="/index/daiyuzanghua.jpg" class=""><p><font size="2">Painter： 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty).</font></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>I am a Ph.D. in fundamental mathematics, graduated from Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences (abbr. AMSS, UCAS) in 2020. 😀</p><img data-src="/index/daiyuzanghua.jpg" class=""><div style="text-align:center;"><font size="2">黛玉葬花, painted by 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty)</font></div><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
