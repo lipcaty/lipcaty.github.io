@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lipcaty.github.io/blog/booknotes.html</loc>
+    
+    <lastmod>2020-06-03T10:58:43.075Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lipcaty.github.io/index.html</loc>
     
-    <lastmod>2020-06-03T08:18:13.961Z</lastmod>
+    <lastmod>2020-06-03T10:01:08.770Z</lastmod>
     
   </url>
   
@@ -40,13 +47,6 @@
     <loc>https://lipcaty.github.io/publications/index.html</loc>
     
     <lastmod>2020-05-29T01:40:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lipcaty.github.io/index/</loc>
-    
-    <lastmod>2020-05-28T15:30:22.228Z</lastmod>
     
   </url>
   
