@@ -287,7 +287,9 @@
     }
 </style>
 <link rel="stylesheet" href="/assets/css/APlayer.min.css">
-<div id="aplayer"></div>
+<div id="aplayer">
+
+</div>
 <script src="/assets/js/APlayer.min.js"></script>
 <script>
 const ap = new APlayer({
@@ -763,26 +765,6 @@ document.querySelectorAll('.pdfobject-container').forEach(element => {
 
   
 
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
-
-<script>
-NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : 'a7ddc171c34756529f3d',
-      clientSecret: '215555af211839e62c314beeb1fe1107be61d376',
-      repo        : 'https://github.com/lipcaty/Comments.git',
-      owner       : 'lipcaty',
-      admin       : ['lipcaty'],
-      id          : '3699e25d2201021e7838c97d522ce054',
-        language: '',
-      distractionFreeMode: false
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
-});
-</script>
-
 <script>
   function loadCount() {
     var d = document, s = d.createElement('script');
@@ -812,6 +794,26 @@ NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
       (d.head || d.body).appendChild(s);
     }
   });
+</script>
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
+<script>
+NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
+    var gitalk = new Gitalk({
+      clientID    : 'ef568588f0dfbeb9d009',
+      clientSecret: '8985b6fc9523d9247ec328e019ffa73fd5ba95ad',
+      repo        : 'lipcaty.github.io',
+      owner       : 'lipcaty',
+      admin       : ['lipcaty'],
+      id          : '3699e25d2201021e7838c97d522ce054',
+        language: '',
+      distractionFreeMode: false
+    });
+    gitalk.render('gitalk-container');
+  }, window.Gitalk);
+});
 </script>
 
     </div>

@@ -3,15 +3,16 @@
   <entry>
     <title>Welcome to My Website!</title>
     <url>/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a Ph.D. in fundamental mathematics graduated from AMSS, UCAS<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> in 2020. 😀</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a Ph.D. in fundamental mathematics graduated from AMSS, UCAS<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> in 2020. 😀</p>
 <p>The website source code can be found <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2xpcGNhdHkvbGlwY2F0eS5naXRodWIuaW8=">here<i class="fa fa-external-link-alt"></i></span>.</p>
-<p><img data-src="index/daiyuzanghua.jpg" alt=""></p>
-<div style="text-align:center;"><font size="2">黛玉葬花, painted by 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty)</font></div>
-<hr class="footnotes-sep">
-<section class="footnotes">
-<ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><p><font size="3"> In this website,  “AMSS,UCAS” = Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences</font> <a href="#fnref1" class="footnote-backref">↩︎</a></p>
-</li>
+<img data-src="index/daiyuzanghua.jpg">
+<div style="text-align:center;">
+<font size="2">黛玉葬花, painted by 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty)</font>
+</div>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1" role="doc-endnote"><p><font size="3"> In this website, "AMSS,UCAS" = Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences</font><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
 <script>
@@ -91,59 +92,6 @@ Research Interests
       </script>]]></content>
   </entry>
   <entry>
-    <title>读书笔记</title>
-    <url>/blog/booknotes.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录">语录</h4>
-<ol type="1">
-<li><p>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</p>
-<p>Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="math inline">\(--\)</span> F<span class="math inline">\(\cdot\)</span>Scott Fitzgerald</p></li>
-<li></li>
-</ol>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>Welcome to My Blog</title>
-    <url>/blog/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I want to share something with you.</p>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
     <title>❤️IU❤️</title>
     <url>/blog/iu.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a big fan of <span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTYlOUQlOEUlRTclOUYlQTUlRTYlODElQTkvNzQzMDg=">IU 이지은<i class="fa fa-external-link-alt"></i></span> ❤️</p>
@@ -159,7 +107,9 @@ Research Interests
     }
 </style>
 <link rel="stylesheet" href="/assets/css/APlayer.min.css">
-<div id="aplayer"></div>
+<div id="aplayer">
+
+</div>
 <script src="/assets/js/APlayer.min.js"></script>
 <script>
 const ap = new APlayer({
@@ -228,9 +178,38 @@ const ap = new APlayer({
       </script>]]></content>
   </entry>
   <entry>
-    <title>LaTeX Tips</title>
-    <url>/blog/latex.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>You can find some useful LaTex tips here.</p>
+    <title>Welcome to My Blog</title>
+    <url>/blog/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I want to share something with you.</p>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>读书笔记</title>
+    <url>/blog/booknotes.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录">语录</h4>
+<ol type="1">
+<li><p>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</p>
+<p>Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="math inline">\(--\)</span> F<span class="math inline">\(\cdot\)</span>Scott Fitzgerald</p></li>
+<li></li>
+</ol>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -262,6 +241,30 @@ Articles/Preprints
 <li><p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes <span class="math inline">\(C^{n+2,r}_{r}\)</span></em>. Homology, Homotopy and Applications 21.2 (2019): 363-375. DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p></li>
 <li><p>Pengcheng Li. <em>(Co)Homology self-closeness numbers of simply-connected spaces</em>. Arxiv preprint: 1911.03641, accepted for publicaiton in Homotopy, Homology and Applications.</p></li>
 </ul>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>LaTeX Tips</title>
+    <url>/blog/latex.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>You can find some useful LaTex tips here.</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
