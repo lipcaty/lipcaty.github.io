@@ -5,7 +5,7 @@
     <url>/index.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a Ph.D. in fundamental mathematics graduated from AMSS, UCAS<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> in 2020. 😀</p>
 <p>The website source code can be found <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2xpcGNhdHkvbGlwY2F0eS5naXRodWIuaW8=">here<i class="fa fa-external-link-alt"></i></span>.</p>
-<p><img data-src="index/daiyuzanghua.jpg" alt=""></p>
+<p><img data-src="index/daiyuzanghua.jpg" alt></p>
 <div style="text-align:center;"><font size="2">黛玉葬花, painted by 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty)</font></div>
 <hr class="footnotes-sep">
 <section class="footnotes">
@@ -90,11 +90,11 @@
   <entry>
     <title>读书笔记</title>
     <url>/blog/booknotes.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录"><a class="header-anchor" href="#语录">¶</a>语录</h4>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录"><a class="markdownIt-Anchor" href="#语录"></a> 语录</h4>
 <ol>
 <li>
 <p>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</p>
-<p>Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. $–$ F$\cdot$Scott Fitzgerald</p>
+<p>Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>−</mo><mo>−</mo></mrow><annotation encoding="application/x-tex">--</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mord">−</span></span></span></span> F<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>⋅</mo></mrow><annotation encoding="application/x-tex">\cdot</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.44445em;vertical-align:0em;"></span><span class="mord">⋅</span></span></span></span>Scott Fitzgerald</p>
 </li>
 <li></li>
 </ol>
@@ -143,52 +143,69 @@
       </script>]]></content>
   </entry>
   <entry>
-    <title>LaTeX Tips</title>
-    <url>/blog/latex.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>You can find some useful LaTex tips here.</p>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
     <title>❤️IU❤️</title>
     <url>/blog/iu.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a big fan of <span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTYlOUQlOEUlRTclOUYlQTUlRTYlODElQTkvNzQzMDg=">IU 이지은<i class="fa fa-external-link-alt"></i></span> ❤️</p>
-<div id="aplayer-FkpYWHRk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-				<pre class="aplayer-lrc-content">[00:18.007]So are you happy now[00:21.942]Finally happy now are you[00:25.957]뭐 그대로야 난 [00:29.446]다 잃어버린 것 같아 [00:33.540]모든 게 맘대로 왔다가 인사도 없이 떠나[00:37.932]이대로는 무엇도 사랑하고 싶지 않아 [00:42.523]다 해질 대로 해져버린 [00:46.307]기억 속을 여행해   [00:49.941]우리는 오렌지 태양 아래 [00:53.641]그림자 없이 함께 춤을 춰 [00:57.441]정해진 이별 따위는 없어  [01:01.523]아름다웠던 그 기억에서 만나  [01:05.773]Forever young   [01:07.392]우우우 우우우우 우우우 우우우우 [01:13.641]Forever we young  [01:15.325]우우우 우우우우 [01:18.625]이런 악몽이라면 영영 깨지 않을게   [01:22.839]섬 그래 여긴 섬 서로가 만든 작은 섬 [01:26.873]예 음 forever young 영원이란 말은 모래성  [01:30.343]작별은 마치 재난문자 같지 [01:32.243]그리움과 같이 맞이하는 아침 [01:34.156]서로가 이 영겁을 지나  [01:36.389]꼭 이 섬에서 다시 만나  [01:37.513]지나듯 날 위로하던 누구의 말대로 고작 [01:41.831]한 뼘짜리 추억을 잊는 게 참 쉽지 않아 [01:46.464]시간이 지나도 여전히 [01:50.313]날 붙드는 그곳에   [01:53.880]우리는 오렌지 태양 아래 [01:57.488]그림자 없이 함께 춤을 춰 [02:01.482]정해진 안녕 따위는 없어  [02:05.563]아름다웠던 그 기억에서 만나   [02:09.880]우리는 서로를 베고 누워 [02:13.498]슬프지 않은 이야기를 나눠 [02:17.430]우울한 결말 따위는 없어 [02:21.500]난 영원히 널 이 기억에서 만나  [02:25.737]Forever young   [02:26.916]우우우 우우우우 우우우 우우우우 [02:33.566]Forever we young [02:35.091]우우우 우우우우 [02:38.562]이런 악몽이라면 영영 깨지 않을게</pre>
-			</div>
-			<script>
-				var ap = new APlayer({
-					element: document.getElementById("aplayer-FkpYWHRk"),
-					narrow: false,
-					autoplay: false,
-					showlrc: 2,
-					music: {
-						title: "에잇",
-						author: "IU&SUGA",
-						url: "https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0aFpTWE10UWdRMkpUY0p2P2U9TlBkUHdD.flac",
-						pic: "https://image.chosun.com/sitedata/image/202005/14/2020051401151_0.jpg",
-					}
-				});
-				window.aplayers || (window.aplayers = []);
-				window.aplayers.push(ap);
-			</script>
+<style>
+    #aplayer {
+        width: 90%;
+        margin: 0 auto;
+    }
+    @media screen and (max-device-width: 400px) {
+        #aplayer {
+            width: 100%;
+        }
+    }
+</style>
+<link rel="stylesheet" href="/assets/css/APlayer.min.css">
+<div id="aplayer"></div>
+<script src="/assets/js/APlayer.min.js"></script>
+<script>
+const ap = new APlayer({
+    container: document.getElementById('aplayer'),
+    mini: false,            <!-- 不启用迷你播放模式 -->
+    autoplay: false,        <!-- 音频不自动播放 -->
+    theme: '#FADFA3',       <!-- 主题色 -->
+    loop: 'all',            <!-- 音频循环播放, 可选值: 'all', 'one', 'none'-->
+    order: 'list',        <!-- 音频循环顺序, 可选值: 'list', 'random'-->
+    preload: 'auto',        <!-- 预加载，可选值: 'none', 'metadata', 'auto'-->
+    volume: 0.7,            <!-- 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效-->
+    mutex: true,            <!-- 互斥，阻止多个播放器同时播放，当前播放器播放时暂停其他播放器 -->
+    listFolded: true,      <!-- 列表默认折叠， false表示不折叠-->
+    listMaxHeight: '120px', <!-- 列表最大高度，超出此高度将有滚动条-->
+    lrcType: 0,             <!-- 歌词类型，0表示不显示歌词-->
+    audio: [
+        {
+            name: 'Eight',                         <!-- 歌曲名称-->
+            artist: 'IU\& SUGA',                       <!-- 歌曲作者-->
+            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=IU%20SUGA%20-%20%EC%97%90%EC%9E%87(Prod.%26Feat.%20SUGA%20of%20BTS).flac&path=%2FMUSIC%2FIU%2FIU%20SUGA%20-%20%EC%97%90%EC%9E%87(Prod.%26Feat.%20SUGA%20of%20BTS).flac&filename=IU%20SUGA%20-%20%EC%97%90%EC%9E%87(Prod.%26Feat.%20SUGA%20of%20BTS).flac',     <!-- 歌曲路径-->
+            cover: 'https://i0.wp.com/www.musicbandguide.com/wp-content/uploads/2020/06/IU-%EC%95%84%EC%9D%B4%EC%9C%A0-eight-%EC%97%90%EC%9E%87-Cover.jpg', <!-- 歌曲封面图片-->
+            theme: '#46718b'                       <!-- 选中歌曲的主题-->
+        },
+        {
+            name: 'Blueming',
+            artist: 'IU',
+            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=IU%20-%20Blueming.flac&path=%2FMUSIC%2FIU%2FIU%20-%20Blueming.flac&filename=IU%20-%20Blueming.flac',
+            cover: 'https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2019/11/IU-Love-poem-1.jpg',
+            theme: '#46718b'
+        },
+        {
+            name: 'Love Poem',
+            artist: 'IU',
+            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=IU%20-%20Love%20poem.flac&path=%2FMUSIC%2FIU%2Flove%20poem%2FIU%20-%20Love%20poem.flac&filename=IU%20-%20Love%20poem.flac',
+            cover: 'https://www.hellokpop.com/wp-content/uploads/2019/10/20191025_165139-640x400.jpg',
+            theme: '#46718b'
+        },
+        {
+            name: '你的意义',
+            artist: 'IU\& 金昌万',
+            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=%E6%9D%8E%E7%9F%A5%E6%81%A9(IU)%20-%20%EB%84%88%EC%9D%98%20%EC%9D%98%EB%AF%B8%20(%E4%BD%A0%E7%9A%84%E6%84%8F%E4%B9%89)(Ft.%20%EA%B9%80%EC%B0%BD%EC%99%84%E9%87%91%E6%98%8C%E5%AE%8C).flac&path=%2FMUSIC%2FIU%2F%E6%9D%8E%E7%9F%A5%E6%81%A9(IU)%20-%20%EB%84%88%EC%9D%98%20%EC%9D%98%EB%AF%B8%20(%E4%BD%A0%E7%9A%84%E6%84%8F%E4%B9%89)(Ft.%20%EA%B9%80%EC%B0%BD%EC%99%84%E9%87%91%E6%98%8C%E5%AE%8C).flac&filename=%E6%9D%8E%E7%9F%A5%E6%81%A9(IU)%20-%20%EB%84%88%EC%9D%98%20%EC%9D%98%EB%AF%B8%20(%E4%BD%A0%E7%9A%84%E6%84%8F%E4%B9%89)(Ft.%20%EA%B9%80%EC%B0%BD%EC%99%84%E9%87%91%E6%98%8C%E5%AE%8C).flac',
+            cover: 'https://oss.tan8.com/yuepuku/107/53962/53962_prev.jpg',
+            theme: '#46718b'
+        },
+    ]
+});
+</script>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -215,13 +232,37 @@
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="note "><h4> Articles/Preprints</h4></div>
 <ul>
 <li>
-<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes $C^{n+2,r}_{r}$</em>. Homology, Homotopy and Applications 21.2 (2019): 363-375.<br>
+<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes <span class="katex"><span class="katex-mathml"><math><semantics><mrow><msubsup><mi>C</mi><mi>r</mi><mrow><mi>n</mi><mo>+</mo><mn>2</mn><mo separator="true">,</mo><mi>r</mi></mrow></msubsup></mrow><annotation encoding="application/x-tex">C^{n+2,r}_{r}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.061108em;vertical-align:-0.247em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-2.4530000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">2</span><span class="mpunct mtight">,</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.247em;"><span></span></span></span></span></span></span></span></span></span></em>. Homology, Homotopy and Applications 21.2 (2019): 363-375.<br>
 DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p>
 </li>
 <li>
 <p>Pengcheng Li. <em>(Co)Homology self-closeness numbers of simply-connected spaces</em>. Arxiv preprint: 1911.03641, accepted for publicaiton in Homotopy, Homology and Applications.</p>
 </li>
 </ul>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>LaTeX Tips</title>
+    <url>/blog/latex.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>You can find some useful LaTex tips here.</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
