@@ -36,41 +36,14 @@
       </script>]]></content>
   </entry>
   <entry>
-    <title>Curriculum Vitae</title>
-    <url>/CV/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
-<div class="note "><h4>
-Personal Info
-</h4>
-</div>
-<ul>
-<li>Basic: Born at Gao'an city, Jiangxi province, People's Republic of China.</li>
-<li>Title: Dr. Pengcheng Li, graduated from AMSS, UCAS in 2020.</li>
-<li>Email: xiaotianshishou@163.com or lipcaty@amss.ac.cn</li>
-<li>Address: AMSS, UCAS, No.55 Zhongguancun Road, Haidian District, Beijing, China (100190).</li>
-</ul>
-<div class="note "><h4>
-Background
-</h4>
-</div>
-<ul>
-<li><p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Researcher Jianzhong Pan.</p></li>
-<li><p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p></li>
-</ul>
-<div class="note "><h4>
-Research Interests
-</h4>
-</div>
-<ul>
-<li><p>Homotopy theory. I am particularly interested in the homotopy theory of Moore spaces and Chang complexes. I am also interested in the homotopy theory of Poincaré Duality complexes and manifolds.</p></li>
-<li><p>Mathematical education.</p></li>
-</ul>
-<hr>
-<div style="text-align:center;">
-<a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
-<i class="far fa-file-pdf fa-fw fa-lg"></i>PDF Copy
-</a>
-</div>
+    <title>读书笔记</title>
+    <url>/blog/booknotes.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录">语录</h4>
+<ol type="1">
+<li><p>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</p>
+<p>Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="math inline">\(--\)</span> F<span class="math inline">\(\cdot\)</span>Scott Fitzgerald</p></li>
+<li></li>
+</ol>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -178,37 +151,12 @@ const ap = new APlayer({
       </script>]]></content>
   </entry>
   <entry>
-    <title>Welcome to My Blog</title>
-    <url>/blog/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I want to share something with you.</p>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>读书笔记</title>
-    <url>/blog/booknotes.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录">语录</h4>
-<ol type="1">
-<li><p>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</p>
-<p>Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="math inline">\(--\)</span> F<span class="math inline">\(\cdot\)</span>Scott Fitzgerald</p></li>
-<li></li>
+    <title>LaTeX Tips</title>
+    <url>/blog/latex.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>You can find some useful LaTex tips here. </p><div class="note default"><h2 id="two-packages-for-commutative-diagrams">Two packages for commutative diagrams</h2>
+</div> 1. tikz-cd User Guide <div class="pdfobject-container" data-target="latex/tikz-cd.pdf" data-height="600px"></div><p></p>
+<ol start="2" type="1">
+<li>XY-pic User Guide <div class="pdfobject-container" data-target="latex/XY-pic_Users_Guide.pdf" data-height="600px"></div></li>
 </ol>
 <script>
         document.querySelectorAll('.github-emoji')
@@ -262,9 +210,65 @@ Articles/Preprints
       </script>]]></content>
   </entry>
   <entry>
-    <title>LaTeX Tips</title>
-    <url>/blog/latex.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>You can find some useful LaTex tips here.</p>
+    <title>Welcome to My Blog</title>
+    <url>/blog/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I want to share something with you.</p>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>Curriculum Vitae</title>
+    <url>/CV/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
+<div class="note "><h4>
+Personal Info
+</h4>
+</div>
+<ul>
+<li>Basic: Born at Gao'an city, Jiangxi province, People's Republic of China.</li>
+<li>Title: Dr. Pengcheng Li, graduated from AMSS, UCAS in 2020.</li>
+<li>Email: xiaotianshishou@163.com or lipcaty@amss.ac.cn</li>
+<li>Address: AMSS, UCAS, No.55 Zhongguancun Road, Haidian District, Beijing, China (100190).</li>
+</ul>
+<div class="note "><h4>
+Background
+</h4>
+</div>
+<ul>
+<li><p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Researcher Jianzhong Pan.</p></li>
+<li><p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p></li>
+</ul>
+<div class="note "><h4>
+Research Interests
+</h4>
+</div>
+<ul>
+<li><p>Homotopy theory. I am particularly interested in the homotopy theory of Moore spaces and Chang complexes. I am also interested in the homotopy theory of Poincaré Duality complexes and manifolds.</p></li>
+<li><p>Mathematical education.</p></li>
+</ul>
+<hr>
+<div style="text-align:center;">
+<a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
+<i class="far fa-file-pdf fa-fw fa-lg"></i>PDF Copy
+</a>
+</div>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
