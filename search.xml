@@ -3,16 +3,15 @@
   <entry>
     <title>Welcome to My Website!</title>
     <url>/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a Ph.D. in fundamental mathematics graduated from AMSS, UCAS<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> in 2020. 😀</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a Ph.D. in fundamental mathematics graduated from AMSS, UCAS<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> in 2020. 😀</p>
 <p>The website source code can be found <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2xpcGNhdHkvbGlwY2F0eS5naXRodWIuaW8=">here<i class="fa fa-external-link-alt"></i></span>.</p>
-<img data-src="index/daiyuzanghua.jpg">
-<div style="text-align:center;">
-<font size="2">黛玉葬花, painted by 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty)</font>
-</div>
-<section class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn1" role="doc-endnote"><p><font size="3"> In this website, "AMSS,UCAS" = Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences</font><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<p><img data-src="index/daiyuzanghua.jpg" alt=""></p>
+<div style="text-align:center;"><font size="2">黛玉葬花, painted by 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty)</font></div>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p><font size="3"> In this website,  “AMSS,UCAS” = Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences</font> <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
 </ol>
 </section>
 <script>
@@ -160,9 +159,7 @@ Research Interests
     }
 </style>
 <link rel="stylesheet" href="/assets/css/APlayer.min.css">
-<div id="aplayer">
-
-</div>
+<div id="aplayer"></div>
 <script src="/assets/js/APlayer.min.js"></script>
 <script>
 const ap = new APlayer({
