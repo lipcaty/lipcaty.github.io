@@ -3,17 +3,12 @@
   <entry>
     <title>Welcome to My Website!</title>
     <url>/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a Ph.D. in fundamental mathematics graduated from AMSS, UCAS<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> in 2020. 😀</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a Ph.D. in fundamental mathematics graduated from AMSS, UCAS[^i] in 2020. 😀 [^i]:<font size="3"> In this website, "AMSS,UCAS" = Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences</font></p>
 <p>The website source code can be found <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2xpcGNhdHkvbGlwY2F0eS5naXRodWIuaW8=">here<i class="fa fa-external-link-alt"></i></span>.</p>
-<p><img data-src="index/daiyuzanghua.jpg" alt></p>
-<div style="text-align:center;"><font size="2">黛玉葬花, painted by 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty)</font></div>
-<hr class="footnotes-sep">
-<section class="footnotes">
-<ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><p><font size="3"> In this website,  “AMSS,UCAS” = Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences</font> <a href="#fnref1" class="footnote-backref">↩︎</a></p>
-</li>
-</ol>
-</section>
+<img data-src="index/daiyuzanghua.jpg">
+<div style="text-align:center;">
+<font size="2">黛玉葬花, painted by 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty)</font>
+</div>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -38,35 +33,38 @@
     <title>Curriculum Vitae</title>
     <url>/CV/index.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
-<div class="note "><h4>Personal Info</h4></div>  
+<div class="note "><h4>
+Personal Info
+</h4>
+</div>
 <ul>
-<li>Basic: Born at Gao’an city, Jiangxi province, People’s Republic of China.</li>
+<li>Basic: Born at Gao'an city, Jiangxi province, People's Republic of China.</li>
 <li>Title: Dr. Pengcheng Li, graduated from AMSS, UCAS in 2020.</li>
-<li>Email: <span class="exturl" data-url="bWFpbHRvOnhpYW90aWFuc2hpc2hvdUAxNjMuY29t">xiaotianshishou@163.com<i class="fa fa-external-link-alt"></i></span> or <span class="exturl" data-url="bWFpbHRvOmxpcGNhdHlAYW1zcy5hYy5jbg==">lipcaty@amss.ac.cn<i class="fa fa-external-link-alt"></i></span></li>
+<li>Email: xiaotianshishou@163.com or lipcaty@amss.ac.cn</li>
 <li>Address: AMSS, UCAS, No.55 Zhongguancun Road, Haidian District, Beijing, China (100190).</li>
 </ul>
-<div class="note "><h4>Background</h4></div>  
+<div class="note "><h4>
+Background
+</h4>
+</div>
 <ul>
-<li>
-<p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Researcher Jianzhong Pan.</p>
-</li>
-<li>
-<p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p>
-</li>
+<li><p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Researcher Jianzhong Pan.</p></li>
+<li><p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p></li>
 </ul>
-<div class="note "><h4>Research Interests</h4></div>  
+<div class="note "><h4>
+Research Interests
+</h4>
+</div>
 <ul>
-<li>
-<p>Homotopy theory. I am particularly interested in the homotopy theory of Moore spaces and Chang complexes. I am also interested in the homotopy theory of Poincaré Duality complexes and manifolds.</p>
-</li>
-<li>
-<p>Mathematical education.</p>
-</li>
+<li><p>Homotopy theory. I am particularly interested in the homotopy theory of Moore spaces and Chang complexes. I am also interested in the homotopy theory of Poincaré Duality complexes and manifolds.</p></li>
+<li><p>Mathematical education.</p></li>
 </ul>
 <hr>
-<div style="text-align:center;"><a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
+<div style="text-align:center;">
+<a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
 <i class="far fa-file-pdf fa-fw fa-lg"></i>PDF Copy
-</a></div>
+</a>
+</div>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -90,12 +88,10 @@
   <entry>
     <title>读书笔记</title>
     <url>/blog/booknotes.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录"><a class="markdownIt-Anchor" href="#语录"></a> 语录</h4>
-<ol>
-<li>
-<p>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</p>
-<p>Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>−</mo><mo>−</mo></mrow><annotation encoding="application/x-tex">--</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mord">−</span></span></span></span> F<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>⋅</mo></mrow><annotation encoding="application/x-tex">\cdot</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.44445em;vertical-align:0em;"></span><span class="mord">⋅</span></span></span></span>Scott Fitzgerald</p>
-</li>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录">语录</h4>
+<ol type="1">
+<li><p>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</p>
+<p>Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="math inline">\(--\)</span> F<span class="math inline">\(\cdot\)</span>Scott Fitzgerald</p></li>
 <li></li>
 </ol>
 <script>
@@ -158,7 +154,9 @@
     }
 </style>
 <link rel="stylesheet" href="/assets/css/APlayer.min.css">
-<div id="aplayer"></div>
+<div id="aplayer">
+
+</div>
 <script src="/assets/js/APlayer.min.js"></script>
 <script>
 const ap = new APlayer({
@@ -171,35 +169,35 @@ const ap = new APlayer({
     preload: 'auto',        <!-- 预加载，可选值: 'none', 'metadata', 'auto'-->
     volume: 0.7,            <!-- 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效-->
     mutex: true,            <!-- 互斥，阻止多个播放器同时播放，当前播放器播放时暂停其他播放器 -->
-    listFolded: true,      <!-- 列表默认折叠， false表示不折叠-->
+    listFolded: false,      <!-- 列表默认折叠， false表示不折叠-->
     listMaxHeight: '120px', <!-- 列表最大高度，超出此高度将有滚动条-->
     lrcType: 0,             <!-- 歌词类型，0表示不显示歌词-->
     audio: [
         {
             name: 'Eight',                         <!-- 歌曲名称-->
-            artist: 'IU\& SUGA',                       <!-- 歌曲作者-->
-            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=IU%20SUGA%20-%20%EC%97%90%EC%9E%87(Prod.%26Feat.%20SUGA%20of%20BTS).flac&path=%2FMUSIC%2FIU%2FIU%20SUGA%20-%20%EC%97%90%EC%9E%87(Prod.%26Feat.%20SUGA%20of%20BTS).flac&filename=IU%20SUGA%20-%20%EC%97%90%EC%9E%87(Prod.%26Feat.%20SUGA%20of%20BTS).flac',     <!-- 歌曲路径-->
+            artist: 'IU,SUGA',                       <!-- 歌曲作者-->
+            url: 'https://link.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0aFpTWE10UWdRMkpUY0p2P2U9NjlUT3lO.flac',     <!-- 歌曲路径-->
             cover: 'https://i0.wp.com/www.musicbandguide.com/wp-content/uploads/2020/06/IU-%EC%95%84%EC%9D%B4%EC%9C%A0-eight-%EC%97%90%EC%9E%87-Cover.jpg', <!-- 歌曲封面图片-->
             theme: '#46718b'                       <!-- 选中歌曲的主题-->
         },
         {
             name: 'Blueming',
             artist: 'IU',
-            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=IU%20-%20Blueming.flac&path=%2FMUSIC%2FIU%2FIU%20-%20Blueming.flac&filename=IU%20-%20Blueming.flac',
+            url: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0aThpc21GN1JjOFlRUnVuP2U9ZEVxWGcw.mp3',
             cover: 'https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2019/11/IU-Love-poem-1.jpg',
             theme: '#46718b'
         },
         {
             name: 'Love Poem',
             artist: 'IU',
-            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=IU%20-%20Love%20poem.flac&path=%2FMUSIC%2FIU%2Flove%20poem%2FIU%20-%20Love%20poem.flac&filename=IU%20-%20Love%20poem.flac',
+            url: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0akFhaVdSR2djN3pkWXM4P2U9bTFCRU55.mp3',
             cover: 'https://www.hellokpop.com/wp-content/uploads/2019/10/20191025_165139-640x400.jpg',
             theme: '#46718b'
         },
         {
             name: '你的意义',
-            artist: 'IU\& 金昌万',
-            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=%E6%9D%8E%E7%9F%A5%E6%81%A9(IU)%20-%20%EB%84%88%EC%9D%98%20%EC%9D%98%EB%AF%B8%20(%E4%BD%A0%E7%9A%84%E6%84%8F%E4%B9%89)(Ft.%20%EA%B9%80%EC%B0%BD%EC%99%84%E9%87%91%E6%98%8C%E5%AE%8C).flac&path=%2FMUSIC%2FIU%2F%E6%9D%8E%E7%9F%A5%E6%81%A9(IU)%20-%20%EB%84%88%EC%9D%98%20%EC%9D%98%EB%AF%B8%20(%E4%BD%A0%E7%9A%84%E6%84%8F%E4%B9%89)(Ft.%20%EA%B9%80%EC%B0%BD%EC%99%84%E9%87%91%E6%98%8C%E5%AE%8C).flac&filename=%E6%9D%8E%E7%9F%A5%E6%81%A9(IU)%20-%20%EB%84%88%EC%9D%98%20%EC%9D%98%EB%AF%B8%20(%E4%BD%A0%E7%9A%84%E6%84%8F%E4%B9%89)(Ft.%20%EA%B9%80%EC%B0%BD%EC%99%84%E9%87%91%E6%98%8C%E5%AE%8C).flac',
+            artist: 'IU,金昌万',
+            url: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0aTV5MGNpanBLNGtaVDk5P2U9c09zQWMx.flac',
             cover: 'https://oss.tan8.com/yuepuku/107/53962/53962_prev.jpg',
             theme: '#46718b'
         },
@@ -227,18 +225,9 @@ const ap = new APlayer({
       </script>]]></content>
   </entry>
   <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="note "><h4> Articles/Preprints</h4></div>
-<ul>
-<li>
-<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes <span class="katex"><span class="katex-mathml"><math><semantics><mrow><msubsup><mi>C</mi><mi>r</mi><mrow><mi>n</mi><mo>+</mo><mn>2</mn><mo separator="true">,</mo><mi>r</mi></mrow></msubsup></mrow><annotation encoding="application/x-tex">C^{n+2,r}_{r}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.061108em;vertical-align:-0.247em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-2.4530000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">2</span><span class="mpunct mtight">,</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.247em;"><span></span></span></span></span></span></span></span></span></span></em>. Homology, Homotopy and Applications 21.2 (2019): 363-375.<br>
-DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p>
-</li>
-<li>
-<p>Pengcheng Li. <em>(Co)Homology self-closeness numbers of simply-connected spaces</em>. Arxiv preprint: 1911.03641, accepted for publicaiton in Homotopy, Homology and Applications.</p>
-</li>
-</ul>
+    <title>LaTeX Tips</title>
+    <url>/blog/latex.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>You can find some useful LaTex tips here.</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -260,9 +249,16 @@ DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIw
       </script>]]></content>
   </entry>
   <entry>
-    <title>LaTeX Tips</title>
-    <url>/blog/latex.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>You can find some useful LaTex tips here.</p>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="note "><h4>
+Articles/Preprints
+</h4>
+</div>
+<ul>
+<li><p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes <span class="math inline">\(C^{n+2,r}_{r}\)</span></em>. Homology, Homotopy and Applications 21.2 (2019): 363-375. DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p></li>
+<li><p>Pengcheng Li. <em>(Co)Homology self-closeness numbers of simply-connected spaces</em>. Arxiv preprint: 1911.03641, accepted for publicaiton in Homotopy, Homology and Applications.</p></li>
+</ul>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {

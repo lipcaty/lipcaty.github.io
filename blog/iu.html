@@ -287,7 +287,9 @@
     }
 </style>
 <link rel="stylesheet" href="/assets/css/APlayer.min.css">
-<div id="aplayer"></div>
+<div id="aplayer">
+
+</div>
 <script src="/assets/js/APlayer.min.js"></script>
 <script>
 const ap = new APlayer({
@@ -300,35 +302,35 @@ const ap = new APlayer({
     preload: 'auto',        <!-- 预加载，可选值: 'none', 'metadata', 'auto'-->
     volume: 0.7,            <!-- 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效-->
     mutex: true,            <!-- 互斥，阻止多个播放器同时播放，当前播放器播放时暂停其他播放器 -->
-    listFolded: true,      <!-- 列表默认折叠， false表示不折叠-->
+    listFolded: false,      <!-- 列表默认折叠， false表示不折叠-->
     listMaxHeight: '120px', <!-- 列表最大高度，超出此高度将有滚动条-->
     lrcType: 0,             <!-- 歌词类型，0表示不显示歌词-->
     audio: [
         {
             name: 'Eight',                         <!-- 歌曲名称-->
-            artist: 'IU\& SUGA',                       <!-- 歌曲作者-->
-            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=IU%20SUGA%20-%20%EC%97%90%EC%9E%87(Prod.%26Feat.%20SUGA%20of%20BTS).flac&path=%2FMUSIC%2FIU%2FIU%20SUGA%20-%20%EC%97%90%EC%9E%87(Prod.%26Feat.%20SUGA%20of%20BTS).flac&filename=IU%20SUGA%20-%20%EC%97%90%EC%9E%87(Prod.%26Feat.%20SUGA%20of%20BTS).flac',     <!-- 歌曲路径-->
+            artist: 'IU,SUGA',                       <!-- 歌曲作者-->
+            url: 'https://link.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0aFpTWE10UWdRMkpUY0p2P2U9NjlUT3lO.flac',     <!-- 歌曲路径-->
             cover: 'https://i0.wp.com/www.musicbandguide.com/wp-content/uploads/2020/06/IU-%EC%95%84%EC%9D%B4%EC%9C%A0-eight-%EC%97%90%EC%9E%87-Cover.jpg', <!-- 歌曲封面图片-->
             theme: '#46718b'                       <!-- 选中歌曲的主题-->
         },
         {
             name: 'Blueming',
             artist: 'IU',
-            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=IU%20-%20Blueming.flac&path=%2FMUSIC%2FIU%2FIU%20-%20Blueming.flac&filename=IU%20-%20Blueming.flac',
+            url: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0aThpc21GN1JjOFlRUnVuP2U9ZEVxWGcw.mp3',
             cover: 'https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2019/11/IU-Love-poem-1.jpg',
             theme: '#46718b'
         },
         {
             name: 'Love Poem',
             artist: 'IU',
-            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=IU%20-%20Love%20poem.flac&path=%2FMUSIC%2FIU%2Flove%20poem%2FIU%20-%20Love%20poem.flac&filename=IU%20-%20Love%20poem.flac',
+            url: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0akFhaVdSR2djN3pkWXM4P2U9bTFCRU55.mp3',
             cover: 'https://www.hellokpop.com/wp-content/uploads/2019/10/20191025_165139-640x400.jpg',
             theme: '#46718b'
         },
         {
             name: '你的意义',
-            artist: 'IU\& 金昌万',
-            url: 'https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=250528&filename=%E6%9D%8E%E7%9F%A5%E6%81%A9(IU)%20-%20%EB%84%88%EC%9D%98%20%EC%9D%98%EB%AF%B8%20(%E4%BD%A0%E7%9A%84%E6%84%8F%E4%B9%89)(Ft.%20%EA%B9%80%EC%B0%BD%EC%99%84%E9%87%91%E6%98%8C%E5%AE%8C).flac&path=%2FMUSIC%2FIU%2F%E6%9D%8E%E7%9F%A5%E6%81%A9(IU)%20-%20%EB%84%88%EC%9D%98%20%EC%9D%98%EB%AF%B8%20(%E4%BD%A0%E7%9A%84%E6%84%8F%E4%B9%89)(Ft.%20%EA%B9%80%EC%B0%BD%EC%99%84%E9%87%91%E6%98%8C%E5%AE%8C).flac&filename=%E6%9D%8E%E7%9F%A5%E6%81%A9(IU)%20-%20%EB%84%88%EC%9D%98%20%EC%9D%98%EB%AF%B8%20(%E4%BD%A0%E7%9A%84%E6%84%8F%E4%B9%89)(Ft.%20%EA%B9%80%EC%B0%BD%EC%99%84%E9%87%91%E6%98%8C%E5%AE%8C).flac',
+            artist: 'IU,金昌万',
+            url: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbDY2N19SdUM3Yzl0aTV5MGNpanBLNGtaVDk5P2U9c09zQWMx.flac',
             cover: 'https://oss.tan8.com/yuepuku/107/53962/53962_prev.jpg',
             theme: '#46718b'
         },
@@ -763,26 +765,6 @@ document.querySelectorAll('.pdfobject-container').forEach(element => {
 
   
 
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
-
-<script>
-NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : 'a7ddc171c34756529f3d',
-      clientSecret: '215555af211839e62c314beeb1fe1107be61d376',
-      repo        : 'lipcaty.github.io',
-      owner       : 'lipcaty',
-      admin       : ['lipcaty'],
-      id          : '3699e25d2201021e7838c97d522ce054',
-        language: '',
-      distractionFreeMode: true
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
-});
-</script>
-
 <script>
   function loadCount() {
     var d = document, s = d.createElement('script');
@@ -812,6 +794,26 @@ NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
       (d.head || d.body).appendChild(s);
     }
   });
+</script>
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
+<script>
+NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
+    var gitalk = new Gitalk({
+      clientID    : 'a7ddc171c34756529f3d',
+      clientSecret: '215555af211839e62c314beeb1fe1107be61d376',
+      repo        : 'lipcaty.github.io',
+      owner       : 'lipcaty',
+      admin       : ['lipcaty'],
+      id          : '3699e25d2201021e7838c97d522ce054',
+        language: '',
+      distractionFreeMode: true
+    });
+    gitalk.render('gitalk-container');
+  }, window.Gitalk);
+});
 </script>
 
     </div>
