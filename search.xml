@@ -5,9 +5,9 @@
     <url>/index.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a Ph.D. in fundamental mathematics graduated from AMSS, UCAS<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> in 2020. 😀</p>
 <p>The website source code can be found <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2xpcGNhdHkvbGlwY2F0eS5naXRodWIuaW8=">here<i class="fa fa-external-link-alt"></i></span>.</p>
-<img data-src="index/daiyuzanghua.jpg">
+<img data-src="index/四季平安图轴2732.jpg">
 <div style="text-align:center;">
-<font size="2">黛玉葬花, painted by 费丹旭(English: Fei Danxu), 1801–1850(Qing Dynasty)</font>
+<font size="2">四季平安图轴(局部), 作者：任颐, 1840–1895(清朝)</font>
 </div>
 <section class="footnotes" role="doc-endnotes">
 <hr>
@@ -15,62 +15,6 @@
 <li id="fn1" role="doc-endnote"><p><font size="3"> In this website, "AMSS,UCAS" = Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences</font><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>Curriculum Vitae</title>
-    <url>/CV/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
-<div class="note "><h4>
-Personal Info
-</h4>
-</div>
-<ul>
-<li>Basic: Born at Gao'an city, Jiangxi province, People's Republic of China.</li>
-<li>Title: Dr. Pengcheng Li, graduated from AMSS, UCAS in 2020.</li>
-<li>Email: xiaotianshishou@163.com or lipcaty@amss.ac.cn</li>
-<li>Address: AMSS, UCAS, No.55 Zhongguancun Road, Haidian District, Beijing, China (100190).</li>
-</ul>
-<div class="note "><h4>
-Background
-</h4>
-</div>
-<ul>
-<li><p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Researcher Jianzhong Pan.</p></li>
-<li><p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p></li>
-</ul>
-<div class="note "><h4>
-Research Interests
-</h4>
-</div>
-<ul>
-<li><p>Homotopy theory. I am particularly interested in the homotopy theory of Moore spaces and Chang complexes. I am also interested in the homotopy theory of Poincaré Duality complexes and manifolds.</p></li>
-<li><p>Mathematical education.</p></li>
-</ul>
-<hr>
-<div style="text-align:center;">
-<a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
-<i class="far fa-file-pdf fa-fw fa-lg"></i>PDF Copy
-</a>
-</div>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -100,30 +44,6 @@ Research Interests
 <p>Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="math inline">\(--\)</span> F<span class="math inline">\(\cdot\)</span>Scott Fitzgerald</p></li>
 <li></li>
 </ol>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>Welcome to My Blog</title>
-    <url>/blog/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I want to share something with you.</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -231,6 +151,34 @@ const ap = new APlayer({
       </script>]]></content>
   </entry>
   <entry>
+    <title>欢迎到访我的博客</title>
+    <url>/blog/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>一个人若能做自己喜欢做的事，并且靠这养活自己，同时能和自己喜欢的人在一起，并且使他们感到快乐，即可称为幸福。 ——周国平</p>
+<img data-src="index/黛玉葬花2732.jpg">
+<div style="text-align:center;">
+<font size="2">黛玉葬花(局部), 作者: 费丹旭, 1801–1850(Qing Dynasty)</font>
+</div>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
     <title>LaTeX Tips</title>
     <url>/blog/latex.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>You can find some useful LaTex tips here. </p><div class="note default"><h2 id="two-packages-for-commutative-diagrams">Two packages for commutative diagrams</h2>
@@ -269,6 +217,62 @@ Articles/Preprints
 <li><p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes <span class="math inline">\(C^{n+2,r}_{r}\)</span></em>. Homology, Homotopy and Applications 21.2 (2019): 363-375. DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p></li>
 <li><p>Pengcheng Li. <em>(Co)Homology self-closeness numbers of simply-connected spaces</em>. Arxiv preprint: 1911.03641, accepted for publicaiton in Homotopy, Homology and Applications.</p></li>
 </ul>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>Curriculum Vitae</title>
+    <url>/CV/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
+<div class="note "><h4>
+Personal Info
+</h4>
+</div>
+<ul>
+<li>Basic: Born at Gao'an city, Jiangxi province, People's Republic of China.</li>
+<li>Title: Dr. Pengcheng Li, graduated from AMSS, UCAS in 2020.</li>
+<li>Email: xiaotianshishou@163.com or lipcaty@amss.ac.cn</li>
+<li>Address: AMSS, UCAS, No.55 Zhongguancun Road, Haidian District, Beijing, China (100190).</li>
+</ul>
+<div class="note "><h4>
+Background
+</h4>
+</div>
+<ul>
+<li><p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Researcher Jianzhong Pan.</p></li>
+<li><p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p></li>
+</ul>
+<div class="note "><h4>
+Research Interests
+</h4>
+</div>
+<ul>
+<li><p>Homotopy theory. I am particularly interested in the homotopy theory of Moore spaces and Chang complexes. I am also interested in the homotopy theory of Poincaré Duality complexes and manifolds.</p></li>
+<li><p>Mathematical education.</p></li>
+</ul>
+<hr>
+<div style="text-align:center;">
+<a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
+<i class="far fa-file-pdf fa-fw fa-lg"></i>PDF Copy
+</a>
+</div>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
