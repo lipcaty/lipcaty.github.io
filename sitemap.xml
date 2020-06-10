@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lipcaty.github.io/index.html</loc>
+    
+    <lastmod>2020-06-10T09:08:38.044Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lipcaty.github.io/blog/marticles/index.html</loc>
     
     <lastmod>2020-06-10T05:49:30.018Z</lastmod>
@@ -23,16 +30,16 @@
   </url>
   
   <url>
-    <loc>https://lipcaty.github.io/index.html</loc>
+    <loc>https://lipcaty.github.io/CV/index.html</loc>
     
-    <lastmod>2020-06-08T17:20:30.384Z</lastmod>
+    <lastmod>2020-05-31T10:58:42.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lipcaty.github.io/CV/index.html</loc>
+    <loc>https://lipcaty.github.io/blog/iu.html</loc>
     
-    <lastmod>2020-05-31T10:58:42.000Z</lastmod>
+    <lastmod>2020-05-29T01:51:31.000Z</lastmod>
     
   </url>
   
@@ -45,13 +52,6 @@
   
   <url>
     <loc>https://lipcaty.github.io/blog/latex.html</loc>
-    
-    <lastmod>2020-05-29T01:51:31.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lipcaty.github.io/blog/iu.html</loc>
     
     <lastmod>2020-05-29T01:51:31.000Z</lastmod>
     
