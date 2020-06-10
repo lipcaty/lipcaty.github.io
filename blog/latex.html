@@ -227,7 +227,7 @@
               
   <li class="menu-item menu-item-iu">
 
-    <a href="/blog/iu.html" rel="section"><i class="far fa-grin-hearts fa-fw"></i>IU</a>
+    <a href="/blog/iu.html" rel="section"><i class="fas fa-grin-hearts fa-fw"></i>IU</a>
 
   </li>
 
@@ -235,18 +235,31 @@
           
           
               
-  <li class="menu-item menu-item-读书笔记">
+  <li class="menu-item menu-item-book-notes">
 
-    <a href="/blog/booknotes.html" rel="section"><i class="fas fa-book-reader fa-fw"></i>读书笔记</a>
+    <a href="/blog/booknotes.html" rel="section"><i class="fas fa-book-reader fa-fw"></i>Book Notes</a>
 
   </li>
 
 
           
+          
+            
+                
+  <li class="menu-item menu-item-marked-articles">
+
+    <a href="/blog/marticles/" rel="section"><i class="fa fa-quote-right fa-fw"></i>Marked Articles</a>
+
+  </li>
+
+
         </ul>
         
 
         
+
+                
+                
         
       
   
@@ -708,6 +721,26 @@ document.querySelectorAll('.pdfobject-container').forEach(element => {
 
   
 
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
+<script>
+NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
+    var gitalk = new Gitalk({
+      clientID    : 'ef568588f0dfbeb9d009',
+      clientSecret: '8985b6fc9523d9247ec328e019ffa73fd5ba95ad',
+      repo        : 'lipcaty.github.io',
+      owner       : 'lipcaty',
+      admin       : ['lipcaty'],
+      id          : 'f0732d414f2268faaaf9e7ac2f512442',
+        language: '',
+      distractionFreeMode: false
+    });
+    gitalk.render('gitalk-container');
+  }, window.Gitalk);
+});
+</script>
+
 <script>
   function loadCount() {
     var d = document, s = d.createElement('script');
@@ -737,26 +770,6 @@ document.querySelectorAll('.pdfobject-container').forEach(element => {
       (d.head || d.body).appendChild(s);
     }
   });
-</script>
-
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
-
-<script>
-NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : 'ef568588f0dfbeb9d009',
-      clientSecret: '8985b6fc9523d9247ec328e019ffa73fd5ba95ad',
-      repo        : 'lipcaty.github.io',
-      owner       : 'lipcaty',
-      admin       : ['lipcaty'],
-      id          : 'f0732d414f2268faaaf9e7ac2f512442',
-        language: '',
-      distractionFreeMode: false
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
-});
 </script>
 
     </div>
