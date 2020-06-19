@@ -3,16 +3,15 @@
   <entry>
     <title>Welcome to My Website!</title>
     <url>/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a Ph.D. in fundamental mathematics graduated from AMSS, UCAS<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> in 2020. 😀</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>I am a Ph.D. in fundamental mathematics graduated from AMSS, UCAS<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> in 2020. 😀</p>
 <p>The website source code can be found <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2xpcGNhdHkvbGlwY2F0eS5naXRodWIuaW8=">here<i class="fa fa-external-link-alt"></i></span>.</p>
-<img data-src="index/四季平安图轴2732.jpg">
-<div style="text-align:center;">
-<font size="2">四季平安图轴(局部), 作者：任颐, 1840–1895(清朝)</font>
-</div>
-<section class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn1" role="doc-endnote"><p><font size="3"> In this website, "AMSS,UCAS" = Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences</font><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<p><img data-src="index/%E5%9B%9B%E5%AD%A3%E5%B9%B3%E5%AE%89%E5%9B%BE%E8%BD%B42732.jpg" alt=""></p>
+<div style="text-align:center;"><font size="2">四季平安图轴(局部), 作者：任颐, 1840–1895(清朝)</font></div>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p><font size="3"> In this website,  “AMSS,UCAS” = Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences</font> <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
 </ol>
 </section>
 <script>
@@ -36,15 +35,178 @@
       </script>]]></content>
   </entry>
   <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="note "><h4>
-Articles/Preprints
-</h4>
+    <title>Curriculum Vitae</title>
+    <url>/CV/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
+<div class="note "><h4>Personal Info</h4></div>  
+<ul>
+<li>Basic: Born at Gao’an city, Jiangxi province, People’s Republic of China.</li>
+<li>Title: Dr. Pengcheng Li, graduated from AMSS, UCAS in 2020.</li>
+<li>Email: <span class="exturl" data-url="bWFpbHRvOnhpYW90aWFuc2hpc2hvdUAxNjMuY29t">xiaotianshishou@163.com<i class="fa fa-external-link-alt"></i></span> or <span class="exturl" data-url="bWFpbHRvOmxpcGNhdHlAYW1zcy5hYy5jbg==">lipcaty@amss.ac.cn<i class="fa fa-external-link-alt"></i></span></li>
+<li>Address: AMSS, UCAS, No.55 Zhongguancun Road, Haidian District, Beijing, China (100190).</li>
+</ul>
+<div class="note "><h4>Background</h4></div>  
+<ul>
+<li>
+<p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Researcher Jianzhong Pan.</p>
+</li>
+<li>
+<p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p>
+</li>
+</ul>
+<div class="note "><h4>Research Interests</h4></div>  
+<ul>
+<li>
+<p>Homotopy theory. I am particularly interested in the homotopy theory of Moore spaces and Chang complexes. I am also interested in the homotopy theory of Poincaré Duality complexes and manifolds.</p>
+</li>
+<li>
+<p>Mathematical education.</p>
+</li>
+</ul>
+<hr>
+<div style="text-align:center;"><a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
+<i class="far fa-file-pdf fa-fw fa-lg"></i>PDF Copy
+</a></div>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>读书笔记</title>
+    <url>/blog/booknotes.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录"><a class="markdownIt-Anchor" href="#语录"></a> 语录</h4>
+<ul>
+<li>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</li>
+</ul>
+<p>   Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>−</mo><mo>−</mo></mrow><annotation encoding="application/x-tex">--</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mord">−</span></span></span></span> F.S. Fitzgerald, “The Great Gatsby”</p>
+<ul>
+<li>周国平， 《我喜欢生命本来的样子》：</li>
+</ul>
+<div class="tabs" id="zhouguoping"><ul class="nav-tabs"><li class="tab active"><a href="#zhouguoping-1">恰到好处的爱</a></li><li class="tab"><a href="#zhouguoping-2">Tab 2</a></li></ul><div class="tab-content"><div class="tab-pane active" id="zhouguoping-1"><ol>
+<li>爱的本质是一种给予，而爱的幸福就在这给予之中。</li>
+<li>在这茫茫宇宙中，有谁不是想要人疼的孤儿？</li>
+<li>一种健全的爱侣关系的前提是相互尊重，包括尊重对方的隐私权。这种尊重一方面基于爱和信任，另一方面基于对人性弱点的宽容。羞于追问喜爱者难以启齿的小隐秘，乃是爱情中的自尊和教养。</li>
+<li>喜新厌旧乃人之常情，但人情还有更深邃的的一面，便是恋故怀旧。一个人不可能永远年轻，终有一天会发现，人生最值得珍惜的乃是那种历经沧桑矢志不渝的伴侣之情。</li>
+<li>好的女人是性的魅力和人的魅力的统一。好的爱情是性的吸引和人的吸引的统一。好的婚姻是性的和谐与人的和谐的统一。 性的诱惑足以使人颠倒一时，人的魅力方能诗人长久倾心。</li>
+<li>相爱者互不束缚对方，是他们对爱情有信心的表现。谁也不限制谁，到头来仍然是谁也离不开谁，这才是真爱。</li>
+<li>人的心是世上最矛盾的东西，它有时很野，想到处飞，但它最平凡最深邃的需要却是一个憩息地，那就是另一颗心。</li>
+<li>年轻人结伴走向生活，最多是志同道合。老年人结伴走向死亡，才真正是相依为命。</li>
+</ol></div><div class="tab-pane" id="zhouguoping-2"><p><strong>This is Tab 2.</strong></p></div></div></div><script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>LaTeX Tips</title>
+    <url>/blog/latex.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ul>
+<li>I think  the <span class="exturl" data-url="aHR0cDovL3d3dy5tYXRoLmVjbnUuZWR1LmNuL35qeXBhbi9UZWFjaGluZy9MYXRleC8=">website<i class="fa fa-external-link-alt"></i></span> is a good source to learn LaTex!</li>
+<li>A good <span class="exturl" data-url="aHR0cHM6Ly9sYXRleGxpdmUuY29tLw==">Online Latex Equation complier<i class="fa fa-external-link-alt"></i></span>.</li>
+</ul>
+<p>You can also find some useful LaTex tips here.</p>
+<div class="note info"><p><strong>The not so short introduction to Latex 2e</strong></p>
+</div>
+<div class="tabs" id="introduction"><ul class="nav-tabs"><li class="tab active"><a href="#introduction-1">English version</a></li><li class="tab"><a href="#introduction-2">中文版</a></li><li class="tab"><a href="#introduction-3">LaTex 笔记</a></li></ul><div class="tab-content"><div class="tab-pane active" id="introduction-1"><div class="pdfobject-container" data-target="latex/lshort.pdf" data-height="600px"></div></div><div class="tab-pane" id="introduction-2"><div class="pdfobject-container" data-target="latex/lshort-zh-cn.pdf" data-height="600px"></div></div><div class="tab-pane" id="introduction-3"><div class="pdfobject-container" data-target="latex/lnotes2.pdf" data-height="600px"></div></div></div></div>
+<div class="note primary"><p><strong>Draw Commutative Diagrams</strong></p>
+</div>
+<div class="tabs" id="dcd"><ul class="nav-tabs"><li class="tab active"><a href="#dcd-1">tikz-cd User Guide</a></li><li class="tab"><a href="#dcd-2">tikz-cd 中文版</a></li><li class="tab"><a href="#dcd-3">XY-pic User Guide</a></li></ul><div class="tab-content"><div class="tab-pane active" id="dcd-1"><div class="pdfobject-container" data-target="latex/tikz-cd-en.pdf" data-height="600px"></div></div><div class="tab-pane" id="dcd-2"><div class="pdfobject-container" data-target="latex/tikz-cd.pdf" data-height="600px"></div></div><div class="tab-pane" id="dcd-3"><div class="pdfobject-container" data-target="latex/XY-pic_Users_Guide.pdf" data-height="600px"></div></div></div></div>
+<div class="note default"><p><strong>Downloads</strong></p>
 </div>
 <ul>
-<li><p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes <span class="math inline">\(C^{n+2,r}_{r}\)</span></em>. Homology, Homotopy and Applications 21.2 (2019): 363-375. DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p></li>
-<li><p>Pengcheng Li. <em>(Co)Homology self-closeness numbers of simply-connected spaces</em>. Arxiv preprint: 1911.03641, accepted for publicaiton in Homotopy, Homology and Applications.</p></li>
+<li><em>The not so short introduction to Latex 2e</em>:  <span class="exturl" data-url="aHR0cHM6Ly9taXJyb3ItaGsua29kZG9zLm5ldC9DVEFOL2luZm8vbHNob3J0L2VuZ2xpc2gvbHNob3J0LnBkZg==">English version<i class="fa fa-external-link-alt"></i></span>; <span class="exturl" data-url="aHR0cHM6Ly9taXJyb3ItaGsua29kZG9zLm5ldC9DVEFOL2luZm8vbHNob3J0L2NoaW5lc2UvbHNob3J0LXpoLWNuLnBkZg==">中文版<i class="fa fa-external-link-alt"></i></span>.</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2h1YW5neGcvbG5vdGVz">Latex 笔记<i class="fa fa-external-link-alt"></i></span>.</li>
+<li><em>Tikz-cd User Guide</em>: <span class="exturl" data-url="aHR0cDovL2N0YW4ubWF0aC53YXNoaW5ndG9uLmVkdS90ZXgtYXJjaGl2ZS9ncmFwaGljcy9wZ2YvY29udHJpYi90aWt6LWNkL3Rpa3otY2QtZG9jLnBkZg==">English version<i class="fa fa-external-link-alt"></i></span>; <span class="exturl" data-url="aHR0cHM6Ly95dXh0ZWNoLmdpdGh1Yi5pby90ZXgvdGlrei1jZC5wZGY=">中文版<i class="fa fa-external-link-alt"></i></span>, 由<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3l1eHRlY2g=">向禹老师<i class="fa fa-external-link-alt"></i></span>翻译。</li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5tYXRoLnViYy5jYS9+Y2F1dGlzL3Rvb2xzL3h5cGljLnBkZg==">XY-pic User Guide<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>欢迎到访我的博客</title>
+    <url>/blog/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>一个人若能做自己喜欢做的事，并且靠这养活自己，同时能和自己喜欢的人在一起，并且使他们感到快乐，即可称为幸福。——周国平</p>
+<p><img data-src="index/%E9%BB%9B%E7%8E%89%E8%91%AC%E8%8A%B12732.jpg" alt=""></p>
+<div style="text-align:center;"><font size="2">黛玉葬花(局部), 作者: 费丹旭, 1801–1850(Qing Dynasty)</font></div>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="note "><h4> Articles/Preprints</h4></div>
+<ul>
+<li>
+<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes <span class="katex"><span class="katex-mathml"><math><semantics><mrow><msubsup><mi>C</mi><mi>r</mi><mrow><mi>n</mi><mo>+</mo><mn>2</mn><mo separator="true">,</mo><mi>r</mi></mrow></msubsup></mrow><annotation encoding="application/x-tex">C^{n+2,r}_{r}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.061108em;vertical-align:-0.247em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-2.4530000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">2</span><span class="mpunct mtight">,</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.247em;"><span></span></span></span></span></span></span></span></span></span></em>. Homology, Homotopy and Applications 21.2 (2019): 363-375.<br>
+DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p>
+</li>
+<li>
+<p>Pengcheng Li. <em>(Co)Homology self-closeness numbers of simply-connected spaces</em>. Arxiv preprint: 1911.03641, accepted for publicaiton in Homotopy, Homology and Applications.</p>
+</li>
 </ul>
 <script>
         document.querySelectorAll('.github-emoji')
@@ -151,133 +313,9 @@ const ap = new APlayer({
       </script>]]></content>
   </entry>
   <entry>
-    <title>Curriculum Vitae</title>
-    <url>/CV/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
-<div class="note "><h4>
-Personal Info
-</h4>
-</div>
-<ul>
-<li>Basic: Born at Gao'an city, Jiangxi province, People's Republic of China.</li>
-<li>Title: Dr. Pengcheng Li, graduated from AMSS, UCAS in 2020.</li>
-<li>Email: xiaotianshishou@163.com or lipcaty@amss.ac.cn</li>
-<li>Address: AMSS, UCAS, No.55 Zhongguancun Road, Haidian District, Beijing, China (100190).</li>
-</ul>
-<div class="note "><h4>
-Background
-</h4>
-</div>
-<ul>
-<li><p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Researcher Jianzhong Pan.</p></li>
-<li><p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p></li>
-</ul>
-<div class="note "><h4>
-Research Interests
-</h4>
-</div>
-<ul>
-<li><p>Homotopy theory. I am particularly interested in the homotopy theory of Moore spaces and Chang complexes. I am also interested in the homotopy theory of Poincaré Duality complexes and manifolds.</p></li>
-<li><p>Mathematical education.</p></li>
-</ul>
-<hr>
-<div style="text-align:center;">
-<a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
-<i class="far fa-file-pdf fa-fw fa-lg"></i>PDF Copy
-</a>
-</div>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>读书笔记</title>
-    <url>/blog/booknotes.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录">语录</h4>
-<ul>
-<li>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</li>
-</ul>
-<p>   Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="math inline">\(--\)</span> F.S. Fitzgerald, "The Great Gatsby"</p>
-<ul>
-<li>周国平， 《我喜欢生命本来的样子》： <div class="tabs" id="zhouguoping"><ul class="nav-tabs"><li class="tab active"><a href="#zhouguoping-1">恰到好处的爱</a></li><li class="tab"><a href="#zhouguoping-2">Tab 2</a></li></ul><div class="tab-content"><div class="tab-pane active" id="zhouguoping-1"><ol type="1">
-<li>爱的本质是一种给予，而爱的幸福就在这给予之中。</li>
-<li>在这茫茫宇宙中，有谁不是想要人疼的孤儿？</li>
-<li>一种健全的爱侣关系的前提是相互尊重，包括尊重对方的隐私权。这种尊重一方面基于爱和信任，另一方面基于对人性弱点的宽容。羞于追问喜爱者难以启齿的小隐秘，乃是爱情中的自尊和教养。</li>
-<li>喜新厌旧乃人之常情，但人情还有更深邃的的一面，便是恋故怀旧。一个人不可能永远年轻，终有一天会发现，人生最值得珍惜的乃是那种历经沧桑矢志不渝的伴侣之情。</li>
-</ol></div><div class="tab-pane" id="zhouguoping-2"><p><strong>This is Tab 2.</strong></p></div></div></div></li>
-</ul>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>欢迎到访我的博客</title>
-    <url>/blog/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>一个人若能做自己喜欢做的事，并且靠这养活自己，同时能和自己喜欢的人在一起，并且使他们感到快乐，即可称为幸福。——周国平</p>
-<img data-src="index/黛玉葬花2732.jpg">
-<div style="text-align:center;">
-<font size="2">黛玉葬花(局部), 作者: 费丹旭, 1801–1850(Qing Dynasty)</font>
-</div>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>LaTeX Tips</title>
-    <url>/blog/latex.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>You can find some useful LaTex tips here. </p><div class="note default"><h2 id="two-packages-for-commutative-diagrams">Two packages for commutative diagrams</h2>
-</div> 1. tikz-cd User Guide <div class="pdfobject-container" data-target="latex/tikz-cd.pdf" data-height="600px"></div><p></p>
-<ol start="2" type="1">
-<li>XY-pic User Guide <div class="pdfobject-container" data-target="latex/XY-pic_Users_Guide.pdf" data-height="600px"></div></li>
-</ol>
+    <title>Marked Articles</title>
+    <url>/blog/marticles/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Some articles about Social Sciences, Math Education, etc.</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -302,94 +340,77 @@ Research Interests
     <title>Maslow’s Hierarchy of Needs Explained</title>
     <url>/blog/marticles/Maslow.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><em>By <span class="exturl" data-url="aHR0cHM6Ly93d3cudGhvdWdodGNvLmNvbS9lbGl6YWJldGgtaG9wcGVyLTQxNTc4MTE=">Elizabeth Hopper<i class="fa fa-external-link-alt"></i></span>, <span class="exturl" data-url="aHR0cHM6Ly90aG91Z2h0Y28uY29tL21hc2xvd3MtaGllcmFyY2h5LW9mLW5lZWRzLTQ1ODI1NzE=">Maslow’s Hierarchy of Needs Explained<i class="fa fa-external-link-alt"></i></span>, Updated February 24, 2020.</em></p>
-<p>Maslow's hierarchy of needs is a theory by Abraham Maslow, which puts forward that people are motivated by five basic categories of needs: physiological, safety, love, esteem, and self-actualization.</p>
-<h3 id="what-is-maslows-hierarchy-of-needs">What Is Maslow’s Hierarchy of Needs?</h3>
+<p>Maslow’s hierarchy of needs is a theory by Abraham Maslow, which puts forward that people are motivated by five basic categories of needs: physiological, safety, love, esteem, and self-actualization.</p>
+<h3 id="what-is-maslows-hierarchy-of-needs"><a class="markdownIt-Anchor" href="#what-is-maslows-hierarchy-of-needs"></a> What Is Maslow’s Hierarchy of Needs?</h3>
 <p>In order to better understand what motivates human beings, Maslow proposed that human needs can be organized into a hierarchy. This hierarchy ranges from more concrete needs such as food and water to abstract concepts such as self-fulfillment. According to Maslow, when a lower need is met, the next need on the hierarchy becomes our focus of attention.</p>
 <p>These are the five categories of needs according to Maslow:</p>
-<h4 id="physiological">Physiological</h4>
+<h4 id="physiological"><a class="markdownIt-Anchor" href="#physiological"></a> Physiological</h4>
 <p>These refer to basic physical needs like drinking when thirsty or eating when hungry. According to Maslow, some of these needs involve our efforts to meet the body’s need for homeostasis; that is, maintaining consistent levels in different bodily systems (for example, maintaining a body temperature of 98.6°).<a href="#ref-1"><sup>1</sup></a></p>
 <p>Maslow considered physiological needs to be the most essential of our needs. If someone is lacking in more than one need, they’re likely to try to meet these physiological needs first. For example, if someone is extremely hungry, it’s hard to focus on anything else besides food. Another example of a physiological need would be the need for adequate sleep.</p>
-<h4 id="safety">Safety</h4>
+<h4 id="safety"><a class="markdownIt-Anchor" href="#safety"></a> Safety</h4>
 <p>Once people’s physiological requirements are met, the next need that arises is a safe environment. Our safety needs are apparent even early in childhood, as children have a need for safe and predictable environments and typically react with fear or anxiety when these are not met. Maslow pointed out that in adults living in developed nations, safety needs are more apparent in emergency situations (e.g. war and disasters), but this need can also explain why we tend to prefer the familiar or why we do things like purchase insurance and contribute to a savings account.</p>
-<h4 id="love-and-belonging">Love and Belonging</h4>
+<h4 id="love-and-belonging"><a class="markdownIt-Anchor" href="#love-and-belonging"></a> Love and Belonging</h4>
 <p>According to Maslow, the next need in the hierarchy involves feeling loved and accepted. This need includes both romantic relationships as well as ties to friends and family members. It also includes our need to feel that we belong to a social group. Importantly, this need encompasses both feeling loved and feeling love towards others.</p>
 <p>Since Maslow’s time, researchers have continued to explore how love and belonging needs impact well-being. For example, having social connections is related to better physical health and, conversely, feeling isolated (i.e. having unmet belonging needs) has negative consequences for health and well-being.<a href="#ref-2"><sup>2</sup></a></p>
-<h4 id="esteem">Esteem</h4>
+<h4 id="esteem"><a class="markdownIt-Anchor" href="#esteem"></a> Esteem</h4>
 <p>Our esteem needs involve the desire to feel good about ourselves. According to Maslow, esteem needs include two components. The first involves feeling self-confidence and feeling good about oneself. The second component involves feeling valued by others; that is, feeling that our achievements and contributions have been recognized by other people. When people’s esteem needs are met, they feel confident and see their contributions and achievements as valuable and important. However, when their esteem needs are not met, they may experience what psychologist Alfred Adler called “feelings of inferiority.”</p>
-<h4 id="self-actualization">Self-Actualization</h4>
+<h4 id="self-actualization"><a class="markdownIt-Anchor" href="#self-actualization"></a> Self-Actualization</h4>
 <p>Self-actualization refers to feeling fulfilled, or feeling that we are living up to our potential. One unique feature of self-actualization is that it looks different for everyone. For one person, self-actualization might involve helping others; for another person, it might involve achievements in an artistic or creative field. Essentially, self-actualization means feeling that we are doing what we believe we are meant to do. According to Maslow, achieving self-actualization is relatively rare, and his examples of famous self-actualized individuals include Abraham Lincoln, Albert Einstein, and Mother Teresa.</p>
-<p><img data-src="pics/maslow.jpg"></p>
-<h3 id="how-people-progress-through-the-hierarchy-of-needs">How People Progress Through the Hierarchy of Needs</h3>
+<p><img data-src="pics/maslow.jpg" alt=""></p>
+<h3 id="how-people-progress-through-the-hierarchy-of-needs"><a class="markdownIt-Anchor" href="#how-people-progress-through-the-hierarchy-of-needs"></a> How People Progress Through the Hierarchy of Needs</h3>
 <p>Maslow postulated that there were several prerequisites to meeting these needs. For example, having freedom of speech and freedom of expression or living in a just and fair society aren’t specifically mentioned within the hierarchy of needs, but Maslow believed that having these things makes it easier for people to achieve their needs.</p>
 <p>In addition to these needs, Maslow also believed that we have a need to learn new information and to better understand the world around us. This is partially because learning more about our environment helps us meet our other needs; for example, learning more about the world can help us feel safer, and developing a better understanding of a topic one is passionate about can contribute to self-actualization. However, Maslow also believed that this call to understand the world around us is an innate need as well.</p>
 <p>Although Maslow presented his needs in a hierarchy, he also acknowledged that meeting each need is not an all-or-nothing phenomenon. Consequently, people don’t need to completely satisfy one need in order for the next need in the hierarchy to emerge. Maslow suggests that, at any given time, most people tend to have each of their needs partly met—and that needs lower on the hierarchy are typically the ones that people have made the most progress towards.</p>
 <p>Additionally, Maslow pointed out that one behavior might meet two or more needs. For example, sharing a meal with someone meets the physiological need for food, but it might also meet the need of belonging. Similarly, working as a paid caregiver would provide someone with income (which allows them to pay for food and shelter), but can also provide them a sense of social connection and fulfillment.</p>
-<h3 id="testing-maslows-theory">Testing Maslow’s Theory</h3>
+<h3 id="testing-maslows-theory"><a class="markdownIt-Anchor" href="#testing-maslows-theory"></a> Testing Maslow’s Theory</h3>
 <p>In the time since Maslow published his original paper, his idea that we go through five specific stages hasn’t always been supported by research. In a 2011 study of human needs across cultures, researchers Louis Tay and Ed Diener looked at data from over 60,000 participants in over 120 different countries. They assessed six needs similar to Maslow’s: basic needs (similar to physiological needs), safety, love, pride and respect (similar to esteem needs), mastery, and autonomy. They found that meeting these needs was indeed linked to well-being. In particular, having basic needs met was linked to people’s overall assessment of their lives, and feeling positive emotions was linked to meeting the needs of feeling loved and respected.<a href="#ref-3"><sup>3</sup></a></p>
 <p>However, although Tay and Diener found support for some of Maslow’s basic needs, the order that people go through these steps seems to be more of a rough guide than a strict rule. For example, people living in poverty might have had trouble meeting their needs for food and safety, but these individuals still sometimes reported feeling loved and supported by the people around them. Meeting the previous needs in the hierarchy wasn’t always a prerequisite for people to meet their love and belonging needs.</p>
-<h3 id="maslows-impact-on-other-researchers">Maslow’s Impact on Other Researchers</h3>
+<h3 id="maslows-impact-on-other-researchers"><a class="markdownIt-Anchor" href="#maslows-impact-on-other-researchers"></a> Maslow’s Impact on Other Researchers</h3>
 <p>Maslow’s theory has had a strong influence on other researchers, who have sought to build on his theory. For example, psychologists Carol Ryff and Burton Singer drew on Maslow’s theories when developing their theory of eudaimonic well-being. According to Ryff and Singer, eudaimonic well-being refers to feeling purpose and meaning—which is similar to Maslow’s idea of self-actualization.<a href="#ref-4"><sup>4</sup></a></p>
 <p>Psychologists Roy Baumeister and Mark Leary built on Maslow’s idea of love and belonging needs. According to Baumeister and Leary, feeling that one belongs is a fundamental need, and they suggest that feeling isolated or left out can have negative consequences for mental and physical health.<a href="#ref-5"><sup>5</sup></a></p>
-<h3 id="references">References</h3>
-<div id="ref-1">
-
-</div>
-<ol type="1">
-<li>Modell, Harold, et al. "A Physiologist's View of Homeostasis." Advances in Physiology Education, vol. 39, no. 4, 1 Dec. 2015, doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjExNTIvYWR2YW4uMDAxMDcuMjAxNQ==">10.1152/advan.00107.2015<i class="fa fa-external-link-alt"></i></span>
-<div id="ref-2">
-
-</div></li>
-<li>Holt-Lunstad, Julianne, et al. "Social Relationships and Mortality Risk: A Meta-analytic Review." Public Library of Science | Medicine, 27 July 2010, doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjEzNzEvam91cm5hbC5wbWVkLjEwMDAzMTY=">10.1371/journal.pmed.1000316<i class="fa fa-external-link-alt"></i></span>
-<div id="ref-3">
-
-</div></li>
-<li>Tay, Louis, and Ed Deiner. "Needs and Subjective Well-Being Around the World." Journal of Personality and Social Psychology, vol. 101, no. 2, 2011, pp. 354-365., doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjEwMzcvYTAwMjM3Nzk=">10.1037/a0023779<i class="fa fa-external-link-alt"></i></span>
-<div id="ref-4">
-
-</div></li>
-<li>Ryff, Carol D. "Eudaimonic Well-Being, Inequality, and Health: Recent Findings and Future Directions." International Review of Economics, vol. 64, no. 2, 30 Mar. 2017, pp. 159-178., doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjEwMDcvczEyMjMyLTAxNy0wMjc3LTQ=">10.1007/s12232-017-0277-4<i class="fa fa-external-link-alt"></i></span>
-<div id="ref-5">
-
-</div></li>
-<li>Pillow, David R., et al. "The Need to Belong and Its Association With Fully Satisfying Relationships: A Tale of Two Measures." Personality and Individual Differences, vol. 74, Feb. 2015, pp. 259-264., doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjEwMTYvai5wYWlkLjIwMTQuMTAuMDMx">10.1016/j.paid.2014.10.031<i class="fa fa-external-link-alt"></i></span></li>
+<h3 id="references"><a class="markdownIt-Anchor" href="#references"></a> References</h3>
+<div id="ref-1"></div>
+<ol>
+<li>Modell, Harold, et al. “A Physiologist’s View of Homeostasis.” Advances in Physiology Education, vol. 39, no. 4, 1 Dec. 2015, doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjExNTIvYWR2YW4uMDAxMDcuMjAxNQ==">10.1152/advan.00107.2015<i class="fa fa-external-link-alt"></i></span></li>
 </ol>
-<h3 id="additional-references">Additional References</h3>
+<div id="ref-2"></div>
+<ol start="2">
+<li>Holt-Lunstad, Julianne, et al. “Social Relationships and Mortality Risk: A Meta-analytic Review.” Public Library of Science | Medicine, 27 July 2010, doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjEzNzEvam91cm5hbC5wbWVkLjEwMDAzMTY=">10.1371/journal.pmed.1000316<i class="fa fa-external-link-alt"></i></span></li>
+</ol>
+<div id="ref-3"></div>
+<ol start="3">
+<li>Tay, Louis, and Ed Deiner. “Needs and Subjective Well-Being Around the World.” Journal of Personality and Social Psychology, vol. 101, no. 2, 2011, pp. 354-365., doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjEwMzcvYTAwMjM3Nzk=">10.1037/a0023779<i class="fa fa-external-link-alt"></i></span></li>
+</ol>
+<div id="ref-4"></div>
+<ol start="4">
+<li>Ryff, Carol D. “Eudaimonic Well-Being, Inequality, and Health: Recent Findings and Future Directions.” International Review of Economics, vol. 64, no. 2, 30 Mar. 2017, pp. 159-178., doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjEwMDcvczEyMjMyLTAxNy0wMjc3LTQ=">10.1007/s12232-017-0277-4<i class="fa fa-external-link-alt"></i></span></li>
+</ol>
+<div id="ref-5"></div>
+<ol start="5">
+<li>Pillow, David R., et al. “The Need to Belong and Its Association With Fully Satisfying Relationships: A Tale of Two Measures.” Personality and Individual Differences, vol. 74, Feb. 2015, pp. 259-264., doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjEwMTYvai5wYWlkLjIwMTQuMTAuMDMx">10.1016/j.paid.2014.10.031<i class="fa fa-external-link-alt"></i></span></li>
+</ol>
+<h3 id="additional-references"><a class="markdownIt-Anchor" href="#additional-references"></a> Additional References</h3>
 <ul>
-<li><p>Baumeister, Roy F., and Mark R. Leary. “The Need to Belong: Desire for Interpersonal Attachments as a Fundamental Human Motivation.” Psychological Bulletin 117.3 (1995): 97-529. https://www.ncbi.nlm.nih.gov/pubmed/7777651</p></li>
-<li><p>Kremer, William, and Claudia Hammond. “Abraham Maslow and the Pyramid That Beguiled Business.” BBC (2013, Sep. 1). https://www.bbc.com/news/magazine-23902918</p></li>
-<li><p>Maslow, Abraham Harold. “A Theory of Human Motivation.” Psychological Review 50.4 (1943): 370-396. http://psycnet.apa.org/record/1943-03751-001</p></li>
-<li><p>Ryff, Carol D., and Burton H. Singer. “Know Thyself and Become What You Are: A Eudaimonic Approach to Psychological Well-Being.” Journal of Happiness Studies 9.1 (2008): 13-39. https://link.springer.com/article/10.1007/s10902-006-9019-0</p></li>
-<li><p>Tay, Louis, and Ed Diener. “Needs and Subjective Well-Being Around the World.” Journal of Personality and Social Psychology 101.2 (2011): 354-365. http://psycnet.apa.org/record/2011-12249-001</p></li>
-<li><p>Villarica, Hans. “Maslow 2.0: A New and Improved Recipe for Happiness.” The Atlantic (2011, Aug. 17). https://www.theatlantic.com/health/archive/2011/08/maslow-20-a-new-and-improved-recipe-for-happiness/243486/</p></li>
+<li>
+<p>Baumeister, Roy F., and Mark R. Leary. “The Need to Belong: Desire for Interpersonal Attachments as a Fundamental Human Motivation.” Psychological Bulletin 117.3 (1995): 97-529. <span class="exturl" data-url="aHR0cHM6Ly93d3cubmNiaS5ubG0ubmloLmdvdi9wdWJtZWQvNzc3NzY1MQ==">https://www.ncbi.nlm.nih.gov/pubmed/7777651<i class="fa fa-external-link-alt"></i></span></p>
+</li>
+<li>
+<p>Kremer, William, and Claudia Hammond. “Abraham Maslow and the Pyramid That Beguiled Business.” BBC (2013, Sep. 1). <span class="exturl" data-url="aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL21hZ2F6aW5lLTIzOTAyOTE4">https://www.bbc.com/news/magazine-23902918<i class="fa fa-external-link-alt"></i></span></p>
+</li>
+<li>
+<p>Maslow, Abraham Harold. “A Theory of Human Motivation.” Psychological Review 50.4 (1943): 370-396. <span class="exturl" data-url="aHR0cDovL3BzeWNuZXQuYXBhLm9yZy9yZWNvcmQvMTk0My0wMzc1MS0wMDE=">http://psycnet.apa.org/record/1943-03751-001<i class="fa fa-external-link-alt"></i></span></p>
+</li>
+<li>
+<p>Ryff, Carol D., and Burton H. Singer. “Know Thyself and Become What You Are: A Eudaimonic Approach to Psychological Well-Being.” Journal of Happiness Studies 9.1 (2008): 13-39. <span class="exturl" data-url="aHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS9hcnRpY2xlLzEwLjEwMDcvczEwOTAyLTAwNi05MDE5LTA=">https://link.springer.com/article/10.1007/s10902-006-9019-0<i class="fa fa-external-link-alt"></i></span></p>
+</li>
+<li>
+<p>Tay, Louis, and Ed Diener. “Needs and Subjective Well-Being Around the World.” Journal of Personality and Social Psychology 101.2 (2011): 354-365. <span class="exturl" data-url="aHR0cDovL3BzeWNuZXQuYXBhLm9yZy9yZWNvcmQvMjAxMS0xMjI0OS0wMDE=">http://psycnet.apa.org/record/2011-12249-001<i class="fa fa-external-link-alt"></i></span></p>
+</li>
+<li>
+<p>Villarica, Hans. “Maslow 2.0: A New and Improved Recipe for Happiness.” The Atlantic (2011, Aug. 17). <span class="exturl" data-url="aHR0cHM6Ly93d3cudGhlYXRsYW50aWMuY29tL2hlYWx0aC9hcmNoaXZlLzIwMTEvMDgvbWFzbG93LTIwLWEtbmV3LWFuZC1pbXByb3ZlZC1yZWNpcGUtZm9yLWhhcHBpbmVzcy8yNDM0ODYv">https://www.theatlantic.com/health/archive/2011/08/maslow-20-a-new-and-improved-recipe-for-happiness/243486/<i class="fa fa-external-link-alt"></i></span></p>
+</li>
 </ul>
-<center>
-QED
-</center>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>Marked Articles</title>
-    <url>/blog/marticles/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Some articles about Social Sciences, Math Education, etc.</p>
-<script>
+ <center>       QED</center><script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
