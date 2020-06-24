@@ -92,68 +92,11 @@ Research Interests
       </script>]]></content>
   </entry>
   <entry>
-    <title>LaTeX Tips</title>
-    <url>/blog/latex.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ul>
-<li>I think the <span class="exturl" data-url="aHR0cDovL3d3dy5tYXRoLmVjbnUuZWR1LmNuL35qeXBhbi9UZWFjaGluZy9MYXRleC8=">website<i class="fa fa-external-link-alt"></i></span> is a good source to learn LaTex!<br>
-</li>
-<li>A good <span class="exturl" data-url="aHR0cHM6Ly9sYXRleGxpdmUuY29tLw==">Online Latex Equation complier<i class="fa fa-external-link-alt"></i></span>.</li>
-</ul>
-<p>You can also find some useful LaTex tips here.</p>
-<div class="note info"><p><strong>The not so short introduction to Latex 2e</strong></p>
+    <title>Dota 2</title>
+    <url>/blog/Dota2.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="note primary"><p>二次元Dota 2,<span class="exturl" data-url="aHR0cHM6Ly93ZWliby5jb20vMzg3MjgzODU3OA==">原作者微博<i class="fa fa-external-link-alt"></i></span></p>
 </div>
-<div class="tabs" id="introduction"><ul class="nav-tabs"><li class="tab active"><a href="#introduction-1">English version</a></li><li class="tab"><a href="#introduction-2">中文版</a></li><li class="tab"><a href="#introduction-3">LaTex 笔记</a></li></ul><div class="tab-content"><div class="tab-pane active" id="introduction-1"><div class="pdfobject-container" data-target="latex/lshort.pdf" data-height="600px">
-
-</div></div><div class="tab-pane" id="introduction-2"><div class="pdfobject-container" data-target="latex/lshort-zh-cn.pdf" data-height="600px">
-
-</div></div><div class="tab-pane" id="introduction-3"><div class="pdfobject-container" data-target="latex/lnotes2.pdf" data-height="600px">
-
-</div></div></div></div>
-<div class="note primary"><p><strong>Draw Commutative Diagrams</strong></p>
-</div>
-<div class="tabs" id="dcd"><ul class="nav-tabs"><li class="tab active"><a href="#dcd-1">tikz-cd User Guide</a></li><li class="tab"><a href="#dcd-2">tikz-cd 中文版</a></li><li class="tab"><a href="#dcd-3">XY-pic User Guide</a></li></ul><div class="tab-content"><div class="tab-pane active" id="dcd-1"><div class="pdfobject-container" data-target="latex/tikz-cd-en.pdf" data-height="600px">
-
-</div></div><div class="tab-pane" id="dcd-2"><div class="pdfobject-container" data-target="latex/tikz-cd.pdf" data-height="600px">
-
-</div></div><div class="tab-pane" id="dcd-3"><div class="pdfobject-container" data-target="latex/XY-pic_Users_Guide.pdf" data-height="600px">
-
-</div></div></div></div>
-<div class="note default"><p><strong>Downloads-Right click on the PDF and then choose "print".</strong></p>
-</div>
-<ul>
-<li><em>The not so short introduction to Latex 2e</em>: <span class="exturl" data-url="aHR0cHM6Ly9taXJyb3ItaGsua29kZG9zLm5ldC9DVEFOL2luZm8vbHNob3J0L2VuZ2xpc2gvbHNob3J0LnBkZg==">English version<i class="fa fa-external-link-alt"></i></span>; <span class="exturl" data-url="aHR0cHM6Ly9taXJyb3ItaGsua29kZG9zLm5ldC9DVEFOL2luZm8vbHNob3J0L2NoaW5lc2UvbHNob3J0LXpoLWNuLnBkZg==">中文版<i class="fa fa-external-link-alt"></i></span>.</li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2h1YW5neGcvbG5vdGVz">Latex 笔记<i class="fa fa-external-link-alt"></i></span>.</li>
-<li><em>Tikz-cd User Guide</em>: <span class="exturl" data-url="aHR0cDovL2N0YW4ubWF0aC53YXNoaW5ndG9uLmVkdS90ZXgtYXJjaGl2ZS9ncmFwaGljcy9wZ2YvY29udHJpYi90aWt6LWNkL3Rpa3otY2QtZG9jLnBkZg==">English version<i class="fa fa-external-link-alt"></i></span>; <span class="exturl" data-url="aHR0cHM6Ly95dXh0ZWNoLmdpdGh1Yi5pby90ZXgvdGlrei1jZC5wZGY=">中文版<i class="fa fa-external-link-alt"></i></span>, 由<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3l1eHRlY2g=">向禹老师<i class="fa fa-external-link-alt"></i></span>翻译。</li>
-<li><span class="exturl" data-url="aHR0cDovL3d3dy5tYXRoLnViYy5jYS9+Y2F1dGlzL3Rvb2xzL3h5cGljLnBkZg==">XY-pic User Guide<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>欢迎到访我的博客</title>
-    <url>/blog/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>一个人若能做自己喜欢做的事，并且靠这养活自己，同时能和自己<a href="https://lipcaty.netlify.app/love/" target="_blank" rel="noopener">喜欢的人<i class="fas fa-heartbeat"></i></a>在一起，并且使他们感到快乐，即可称为幸福。——周国平</p>
-<img data-src="index/黛玉葬花2732.jpg">
-<div style="text-align:center;">
-<font size="2">黛玉葬花(局部), 作者: 费丹旭, 1801–1850(Qing Dynasty)</font>
-</div>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img data-src="Dota2/ti10/Windranger.jpg"></div><div class="group-picture-column" style="width: 50%;"><img data-src="Dota2/ti10/AM.jpg"></div></div><div class="group-picture-row"></div><div class="group-picture-row"></div><div class="group-picture-row"></div></div>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -301,16 +244,67 @@ const ap = new APlayer({
       </script>]]></content>
   </entry>
   <entry>
-    <title>Publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>My research interest in mathematics is <strong>Algebraic Topology</strong>, a subject of fundamental mathematics. You can find my ORCID (<i class="fab fa-orcid" aria-hidden="true"></i>) on the sidebar and my MR author ID is <span class="exturl" data-url="aHR0cHM6Ly9tYXRoc2NpbmV0LmFtcy5vcmcvbWF0aHNjaW5ldC9zZWFyY2gvYXV0aG9yLmh0bWw/bXJhdXRoaWQ9MTMyNjA3MA==">1326070<i class="fa fa-external-link-alt"></i></span>.</p>
-<div class="note "><h4>
-Articles/Preprints
-</h4>
+    <title>欢迎到访我的博客</title>
+    <url>/blog/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>一个人若能做自己喜欢做的事，并且靠这养活自己，同时能和自己<a href="https://lipcaty.netlify.app/love/" target="_blank" rel="noopener">喜欢的人<i class="fas fa-heartbeat"></i></a>在一起，并且使他们感到快乐，即可称为幸福。——周国平</p>
+<img data-src="index/黛玉葬花2732.jpg">
+<div style="text-align:center;">
+<font size="2">黛玉葬花(局部), 作者: 费丹旭, 1801–1850(Qing Dynasty)</font>
+</div>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>LaTeX Tips</title>
+    <url>/blog/latex.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ul>
+<li>I think the <span class="exturl" data-url="aHR0cDovL3d3dy5tYXRoLmVjbnUuZWR1LmNuL35qeXBhbi9UZWFjaGluZy9MYXRleC8=">website<i class="fa fa-external-link-alt"></i></span> is a good source to learn LaTex!<br>
+</li>
+<li>A good <span class="exturl" data-url="aHR0cHM6Ly9sYXRleGxpdmUuY29tLw==">Online Latex Equation complier<i class="fa fa-external-link-alt"></i></span>.</li>
+</ul>
+<p>You can also find some useful LaTex tips here.</p>
+<div class="note info"><p><strong>The not so short introduction to Latex 2e</strong></p>
+</div>
+<div class="tabs" id="introduction"><ul class="nav-tabs"><li class="tab active"><a href="#introduction-1">English version</a></li><li class="tab"><a href="#introduction-2">中文版</a></li><li class="tab"><a href="#introduction-3">LaTex 笔记</a></li></ul><div class="tab-content"><div class="tab-pane active" id="introduction-1"><div class="pdfobject-container" data-target="latex/lshort.pdf" data-height="600px">
+
+</div></div><div class="tab-pane" id="introduction-2"><div class="pdfobject-container" data-target="latex/lshort-zh-cn.pdf" data-height="600px">
+
+</div></div><div class="tab-pane" id="introduction-3"><div class="pdfobject-container" data-target="latex/lnotes2.pdf" data-height="600px">
+
+</div></div></div></div>
+<div class="note primary"><p><strong>Draw Commutative Diagrams</strong></p>
+</div>
+<div class="tabs" id="dcd"><ul class="nav-tabs"><li class="tab active"><a href="#dcd-1">tikz-cd User Guide</a></li><li class="tab"><a href="#dcd-2">tikz-cd 中文版</a></li><li class="tab"><a href="#dcd-3">XY-pic User Guide</a></li></ul><div class="tab-content"><div class="tab-pane active" id="dcd-1"><div class="pdfobject-container" data-target="latex/tikz-cd-en.pdf" data-height="600px">
+
+</div></div><div class="tab-pane" id="dcd-2"><div class="pdfobject-container" data-target="latex/tikz-cd.pdf" data-height="600px">
+
+</div></div><div class="tab-pane" id="dcd-3"><div class="pdfobject-container" data-target="latex/XY-pic_Users_Guide.pdf" data-height="600px">
+
+</div></div></div></div>
+<div class="note default"><p><strong>Downloads-Right click on the PDF and then choose "print".</strong></p>
 </div>
 <ul>
-<li><p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes <span class="math inline">\(C^{n+2,r}_{r}\)</span></em>. Homology, Homotopy and Applications 21.2 (2019): 363-375. DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p></li>
-<li><p>Pengcheng Li. <em>(Co)Homology self-closeness numbers of simply-connected spaces</em>. Arxiv preprint: 1911.03641, accepted for publicaiton in Homotopy, Homology and Applications.</p></li>
+<li><em>The not so short introduction to Latex 2e</em>: <span class="exturl" data-url="aHR0cHM6Ly9taXJyb3ItaGsua29kZG9zLm5ldC9DVEFOL2luZm8vbHNob3J0L2VuZ2xpc2gvbHNob3J0LnBkZg==">English version<i class="fa fa-external-link-alt"></i></span>; <span class="exturl" data-url="aHR0cHM6Ly9taXJyb3ItaGsua29kZG9zLm5ldC9DVEFOL2luZm8vbHNob3J0L2NoaW5lc2UvbHNob3J0LXpoLWNuLnBkZg==">中文版<i class="fa fa-external-link-alt"></i></span>.</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2h1YW5neGcvbG5vdGVz">Latex 笔记<i class="fa fa-external-link-alt"></i></span>.</li>
+<li><em>Tikz-cd User Guide</em>: <span class="exturl" data-url="aHR0cDovL2N0YW4ubWF0aC53YXNoaW5ndG9uLmVkdS90ZXgtYXJjaGl2ZS9ncmFwaGljcy9wZ2YvY29udHJpYi90aWt6LWNkL3Rpa3otY2QtZG9jLnBkZg==">English version<i class="fa fa-external-link-alt"></i></span>; <span class="exturl" data-url="aHR0cHM6Ly95dXh0ZWNoLmdpdGh1Yi5pby90ZXgvdGlrei1jZC5wZGY=">中文版<i class="fa fa-external-link-alt"></i></span>, 由<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3l1eHRlY2g=">向禹老师<i class="fa fa-external-link-alt"></i></span>翻译。</li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5tYXRoLnViYy5jYS9+Y2F1dGlzL3Rvb2xzL3h5cGljLnBkZg==">XY-pic User Guide<i class="fa fa-external-link-alt"></i></span></li>
 </ul>
 <script>
         document.querySelectorAll('.github-emoji')
@@ -333,11 +327,17 @@ Articles/Preprints
       </script>]]></content>
   </entry>
   <entry>
-    <title>Dota 2</title>
-    <url>/blog/Dota2.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="note primary"><p><strong>二次元Dota 2,<span class="exturl" data-url="aHR0cHM6Ly93ZWliby5jb20vMzg3MjgzODU3OA==">版权归属<i class="fa fa-external-link-alt"></i></span></strong></p>
+    <title>Publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>My research interest in mathematics is <strong>Algebraic Topology</strong>, a subject of fundamental mathematics. You can find my ORCID (<i class="fab fa-orcid" aria-hidden="true"></i>) on the sidebar and my MR author ID is <span class="exturl" data-url="aHR0cHM6Ly9tYXRoc2NpbmV0LmFtcy5vcmcvbWF0aHNjaW5ldC9zZWFyY2gvYXV0aG9yLmh0bWw/bXJhdXRoaWQ9MTMyNjA3MA==">1326070<i class="fa fa-external-link-alt"></i></span>.</p>
+<div class="note "><h4>
+Articles/Preprints
+</h4>
 </div>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img data-src="Dota2/ti10/新风行%5B上色%5D定稿.jpg" alt="新风行"></div><div class="group-picture-column" style="width: 50%;"><img data-src="Dota2/ti10/女敌法%5B上色%5D定稿.jpg" alt="女敌法"></div></div><div class="group-picture-row"></div><div class="group-picture-row"></div><div class="group-picture-row"></div></div>
+<ul>
+<li><p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes <span class="math inline">\(C^{n+2,r}_{r}\)</span></em>. Homology, Homotopy and Applications 21.2 (2019): 363-375. DOI: <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p></li>
+<li><p>Pengcheng Li. <em>(Co)Homology self-closeness numbers of simply-connected spaces</em>. Arxiv preprint: 1911.03641, accepted for publicaiton in Homotopy, Homology and Applications.</p></li>
+</ul>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
