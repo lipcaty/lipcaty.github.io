@@ -36,6 +36,46 @@
       </script>]]></content>
   </entry>
   <entry>
+    <title>读书笔记</title>
+    <url>/blog/booknotes.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录">语录</h4>
+<ul>
+<li>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</li>
+</ul>
+<p>   Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="math inline">\(--\)</span> F.S. Fitzgerald, "The Great Gatsby"</p>
+<ul>
+<li>周国平， 《我喜欢生命本来的样子》： <div class="tabs" id="zhouguoping"><ul class="nav-tabs"><li class="tab active"><a href="#zhouguoping-1">周国平-恰到好处的爱</a></li><li class="tab"><a href="#zhouguoping-2">Tab 2</a></li></ul><div class="tab-content"><div class="tab-pane active" id="zhouguoping-1"><ol type="1">
+<li>爱的本质是一种给予，而爱的幸福就在这给予之中。</li>
+<li>在这茫茫宇宙中，有谁不是想要人疼的孤儿？</li>
+<li>一种健全的爱侣关系的前提是相互尊重，包括尊重对方的隐私权。这种尊重一方面基于爱和信任，另一方面基于对人性弱点的宽容。羞于追问喜爱者难以启齿的小隐秘，乃是爱情中的自尊和教养。</li>
+<li>喜新厌旧乃人之常情，但人情还有更深邃的的一面，便是恋故怀旧。一个人不可能永远年轻，终有一天会发现，人生最值得珍惜的乃是那种历经沧桑矢志不渝的伴侣之情。</li>
+<li>好的女人是性的魅力和人的魅力的统一。好的爱情是性的吸引和人的吸引的统一。好的婚姻是性的和谐与人的和谐的统一。 性的诱惑足以使人颠倒一时，人的魅力方能诗人长久倾心。</li>
+<li>相爱者互不束缚对方，是他们对爱情有信心的表现。谁也不限制谁，到头来仍然是谁也离不开谁，这才是真爱。</li>
+<li>人的心是世上最矛盾的东西，它有时很野，想到处飞，但它最平凡最深邃的需要却是一个憩息地，那就是另一颗心。</li>
+<li>年轻人结伴走向生活，最多是志同道合。老年人结伴走向死亡，才真正是相依为命。</li>
+</ol></div><div class="tab-pane" id="zhouguoping-2"><p><strong>This is Tab 2.</strong></p></div></div></div></li>
+</ul>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
     <title>Curriculum Vitae</title>
     <url>/CV/index.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
@@ -92,11 +132,13 @@ Research Interests
       </script>]]></content>
   </entry>
   <entry>
-    <title>Dota 2</title>
-    <url>/blog/Dota2.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="note primary"><p>二次元Dota 2,<span class="exturl" data-url="aHR0cHM6Ly93ZWliby5jb20vMzg3MjgzODU3OA==">原作者微博<i class="fa fa-external-link-alt"></i></span></p>
+    <title>欢迎到访我的博客</title>
+    <url>/blog/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>一个人若能做自己喜欢做的事，并且靠这养活自己，同时能和自己喜欢的人在一起，并且使他们感到快乐，即可称为幸福。——周国平</p>
+<img data-src="index/黛玉葬花2732.jpg">
+<div style="text-align:center;">
+<font size="2">黛玉葬花(局部), 作者: 费丹旭, 1801–1850(Qing Dynasty)</font>
 </div>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img data-src="Dota2/ti10/Windranger.jpg"></div><div class="group-picture-column" style="width: 50%;"><img data-src="Dota2/ti10/AM.jpg"></div></div><div class="group-picture-row"></div><div class="group-picture-row"></div><div class="group-picture-row"></div></div>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -118,25 +160,11 @@ Research Interests
       </script>]]></content>
   </entry>
   <entry>
-    <title>读书笔记</title>
-    <url>/blog/booknotes.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录">语录</h4>
-<ul>
-<li>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</li>
-</ul>
-<p>   Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="math inline">\(--\)</span> F.S. Fitzgerald, "The Great Gatsby"</p>
-<ul>
-<li>周国平， 《我喜欢生命本来的样子》： <div class="tabs" id="zhouguoping"><ul class="nav-tabs"><li class="tab active"><a href="#zhouguoping-1">周国平-恰到好处的爱</a></li><li class="tab"><a href="#zhouguoping-2">Tab 2</a></li></ul><div class="tab-content"><div class="tab-pane active" id="zhouguoping-1"><ol type="1">
-<li>爱的本质是一种给予，而爱的幸福就在这给予之中。</li>
-<li>在这茫茫宇宙中，有谁不是想要人疼的孤儿？</li>
-<li>一种健全的爱侣关系的前提是相互尊重，包括尊重对方的隐私权。这种尊重一方面基于爱和信任，另一方面基于对人性弱点的宽容。羞于追问喜爱者难以启齿的小隐秘，乃是爱情中的自尊和教养。</li>
-<li>喜新厌旧乃人之常情，但人情还有更深邃的的一面，便是恋故怀旧。一个人不可能永远年轻，终有一天会发现，人生最值得珍惜的乃是那种历经沧桑矢志不渝的伴侣之情。</li>
-<li>好的女人是性的魅力和人的魅力的统一。好的爱情是性的吸引和人的吸引的统一。好的婚姻是性的和谐与人的和谐的统一。 性的诱惑足以使人颠倒一时，人的魅力方能诗人长久倾心。</li>
-<li>相爱者互不束缚对方，是他们对爱情有信心的表现。谁也不限制谁，到头来仍然是谁也离不开谁，这才是真爱。</li>
-<li>人的心是世上最矛盾的东西，它有时很野，想到处飞，但它最平凡最深邃的需要却是一个憩息地，那就是另一颗心。</li>
-<li>年轻人结伴走向生活，最多是志同道合。老年人结伴走向死亡，才真正是相依为命。</li>
-</ol></div><div class="tab-pane" id="zhouguoping-2"><p><strong>This is Tab 2.</strong></p></div></div></div></li>
-</ul>
+    <title>Dota 2</title>
+    <url>/blog/Dota2.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="note primary"><p>二次元Dota 2,<span class="exturl" data-url="aHR0cHM6Ly93ZWliby5jb20vMzg3MjgzODU3OA==">原作者微博<i class="fa fa-external-link-alt"></i></span></p>
+</div>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img data-src="Dota2/ti10/Windranger.jpg"></div><div class="group-picture-column" style="width: 50%;"><img data-src="Dota2/ti10/AM.jpg"></div></div><div class="group-picture-row"></div><div class="group-picture-row"></div><div class="group-picture-row"></div></div>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -223,34 +251,6 @@ const ap = new APlayer({
     ]
 });
 </script>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>欢迎到访我的博客</title>
-    <url>/blog/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>一个人若能做自己喜欢做的事，并且靠这养活自己，同时能和自己<a href="https://lipcaty.netlify.app/love/" target="_blank" rel="noopener">喜欢的人<i class="fas fa-heartbeat"></i></a>在一起，并且使他们感到快乐，即可称为幸福。——周国平</p>
-<img data-src="index/黛玉葬花2732.jpg">
-<div style="text-align:center;">
-<font size="2">黛玉葬花(局部), 作者: 费丹旭, 1801–1850(Qing Dynasty)</font>
-</div>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -359,30 +359,6 @@ Articles/Preprints
       </script>]]></content>
   </entry>
   <entry>
-    <title>Marked Articles</title>
-    <url>/blog/marticles/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Some articles about Social Sciences, Math Education, etc.</p>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
     <title>Maslow’s Hierarchy of Needs Explained</title>
     <url>/blog/marticles/Maslow.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><em>By <span class="exturl" data-url="aHR0cHM6Ly93d3cudGhvdWdodGNvLmNvbS9lbGl6YWJldGgtaG9wcGVyLTQxNTc4MTE=">Elizabeth Hopper<i class="fa fa-external-link-alt"></i></span>, <span class="exturl" data-url="aHR0cHM6Ly90aG91Z2h0Y28uY29tL21hc2xvd3MtaGllcmFyY2h5LW9mLW5lZWRzLTQ1ODI1NzE=">Maslow’s Hierarchy of Needs Explained<i class="fa fa-external-link-alt"></i></span>, Updated February 24, 2020.</em></p>
@@ -449,6 +425,30 @@ Articles/Preprints
 <center>
 QED
 </center>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>Marked Articles</title>
+    <url>/blog/marticles/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Some articles about Social Sciences, Math Education, etc.</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
