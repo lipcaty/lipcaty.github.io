@@ -215,6 +215,16 @@
           
           
               
+  <li class="menu-item menu-item-love">
+
+    <a href="/blog/love.html" rel="section"><i class="fab fa-heartbeat fa-fw"></i>Love</a>
+
+  </li>
+
+
+          
+          
+              
   <li class="menu-item menu-item-latex">
 
     <a href="/blog/latex.html" rel="section"><i class="fas fa-bookmark fa-fw"></i>Latex</a>
@@ -248,6 +258,16 @@
   <li class="menu-item menu-item-book-notes">
 
     <a href="/blog/booknotes.html" rel="section"><i class="fas fa-book-reader fa-fw"></i>Book Notes</a>
+
+  </li>
+
+
+          
+          
+              
+  <li class="menu-item menu-item-google-search">
+
+    <a href="/blog/GSearch.html" rel="section"><i class="fa fa-graduation-cap fa-fw"></i>Google Search</a>
 
   </li>
 
@@ -757,10 +777,30 @@ document.querySelectorAll('.pdfobject-container').forEach(element => {
 
   
 
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
+<script>
+NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
+    var gitalk = new Gitalk({
+      clientID    : 'ef568588f0dfbeb9d009',
+      clientSecret: '8985b6fc9523d9247ec328e019ffa73fd5ba95ad',
+      repo        : 'website-comments',
+      owner       : 'lipcaty',
+      admin       : ['lipcaty'],
+      id          : 'f0732d414f2268faaaf9e7ac2f512442',
+        language: '',
+      distractionFreeMode: false
+    });
+    gitalk.render('gitalk-container');
+  }, window.Gitalk);
+});
+</script>
+
 <script>
   function loadCount() {
     var d = document, s = d.createElement('script');
-    s.src = 'https://lipcaty.disqus.com/count.js';
+    s.src = 'https://LipCaty.disqus.com/count.js';
     s.id = 'dsq-count-scr';
     (d.head || d.body).appendChild(s);
   }
@@ -781,31 +821,11 @@ document.querySelectorAll('.pdfobject-container').forEach(element => {
       });
     } else {
       var d = document, s = d.createElement('script');
-      s.src = 'https://lipcaty.disqus.com/embed.js';
+      s.src = 'https://LipCaty.disqus.com/embed.js';
       s.setAttribute('data-timestamp', '' + +new Date());
       (d.head || d.body).appendChild(s);
     }
   });
-</script>
-
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
-
-<script>
-NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : 'ef568588f0dfbeb9d009',
-      clientSecret: '8985b6fc9523d9247ec328e019ffa73fd5ba95ad',
-      repo        : 'website-comments',
-      owner       : 'lipcaty',
-      admin       : ['lipcaty'],
-      id          : 'f0732d414f2268faaaf9e7ac2f512442',
-        language: '',
-      distractionFreeMode: false
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
-});
 </script>
 
     </div>
