@@ -273,36 +273,30 @@ const ap = new APlayer({
     <title>LaTeX Tips</title>
     <url>/blog/latex.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ul>
-<li>I think the <span class="exturl" data-url="aHR0cDovL3d3dy5tYXRoLmVjbnUuZWR1LmNuL35qeXBhbi9UZWFjaGluZy9MYXRleC8=">website<i class="fa fa-external-link-alt"></i></span> is a good source to learn LaTex!<br>
-</li>
+<li>I think  the <span class="exturl" data-url="aHR0cDovL3d3dy5tYXRoLmVjbnUuZWR1LmNuL35qeXBhbi9UZWFjaGluZy9MYXRleC8=">website<i class="fa fa-external-link-alt"></i></span> is a good source to learn LaTex!</li>
 <li>A good <span class="exturl" data-url="aHR0cHM6Ly9sYXRleGxpdmUuY29tLw==">Online Latex Equation complier<i class="fa fa-external-link-alt"></i></span>.</li>
 </ul>
 <p>You can also find some useful LaTex tips here.</p>
-<ol type="1">
-<li>latex limits:</li>
+<ol>
+<li>space between enumerated items</li>
 </ol>
+ <figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">\begin{enumerate} </span><br><span class="line">  \itemsep1em </span><br><span class="line">   \item one</span><br><span class="line">   \item two</span><br><span class="line">   \item three</span><br><span class="line">  \end{enumerate}</span><br></pre></td></tr></tbody></table></figure>
+<ol>
+<li><code>\substack</code> in math formulas, for example, the latex code</li>
+</ol>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">\prod\limits_{\substack{i_1+\cdots+i_k=n\\i_1&lt;\cdots&lt;i_k}} x_{i_1}+\cdots +x_{i_k}</span><br></pre></td></tr></tbody></table></figure>
+<p>produces the formula<br>
+[\prod\limits_{\substack{i_1+\cdots+i_k=n\i_1&lt;\cdots&lt;i_k}} x_{i_1}+\cdots +x_{i_k}]</p>
 <div class="note info"><p><strong>The not so short introduction to Latex 2e</strong></p>
 </div>
-<div class="tabs" id="introduction"><ul class="nav-tabs"><li class="tab active"><a href="#introduction-1">English version</a></li><li class="tab"><a href="#introduction-2">中文版</a></li><li class="tab"><a href="#introduction-3">LaTex 笔记</a></li></ul><div class="tab-content"><div class="tab-pane active" id="introduction-1"><div class="pdfobject-container" data-target="latex/lshort.pdf" data-height="600px">
-
-</div></div><div class="tab-pane" id="introduction-2"><div class="pdfobject-container" data-target="latex/lshort-zh-cn.pdf" data-height="600px">
-
-</div></div><div class="tab-pane" id="introduction-3"><div class="pdfobject-container" data-target="latex/lnotes2.pdf" data-height="600px">
-
-</div></div></div></div>
+<div class="tabs" id="introduction"><ul class="nav-tabs"><li class="tab active"><a href="#introduction-1">English version</a></li><li class="tab"><a href="#introduction-2">中文版</a></li><li class="tab"><a href="#introduction-3">LaTex 笔记</a></li></ul><div class="tab-content"><div class="tab-pane active" id="introduction-1"><div class="pdfobject-container" data-target="latex/lshort.pdf" data-height="600px"></div></div><div class="tab-pane" id="introduction-2"><div class="pdfobject-container" data-target="latex/lshort-zh-cn.pdf" data-height="600px"></div></div><div class="tab-pane" id="introduction-3"><div class="pdfobject-container" data-target="latex/lnotes2.pdf" data-height="600px"></div></div></div></div>
 <div class="note primary"><p><strong>Draw Commutative Diagrams</strong></p>
 </div>
-<div class="tabs" id="dcd"><ul class="nav-tabs"><li class="tab active"><a href="#dcd-1">tikz-cd User Guide</a></li><li class="tab"><a href="#dcd-2">tikz-cd 中文版</a></li><li class="tab"><a href="#dcd-3">XY-pic User Guide</a></li></ul><div class="tab-content"><div class="tab-pane active" id="dcd-1"><div class="pdfobject-container" data-target="latex/tikz-cd-en.pdf" data-height="600px">
-
-</div></div><div class="tab-pane" id="dcd-2"><div class="pdfobject-container" data-target="latex/tikz-cd.pdf" data-height="600px">
-
-</div></div><div class="tab-pane" id="dcd-3"><div class="pdfobject-container" data-target="latex/XY-pic_Users_Guide.pdf" data-height="600px">
-
-</div></div></div></div>
-<div class="note default"><p><strong>Downloads-Right click on the PDF and then choose "print".</strong></p>
+<div class="tabs" id="dcd"><ul class="nav-tabs"><li class="tab active"><a href="#dcd-1">tikz-cd User Guide</a></li><li class="tab"><a href="#dcd-2">tikz-cd 中文版</a></li><li class="tab"><a href="#dcd-3">XY-pic User Guide</a></li></ul><div class="tab-content"><div class="tab-pane active" id="dcd-1"><div class="pdfobject-container" data-target="latex/tikz-cd-en.pdf" data-height="600px"></div></div><div class="tab-pane" id="dcd-2"><div class="pdfobject-container" data-target="latex/tikz-cd.pdf" data-height="600px"></div></div><div class="tab-pane" id="dcd-3"><div class="pdfobject-container" data-target="latex/XY-pic_Users_Guide.pdf" data-height="600px"></div></div></div></div>
+<div class="note default"><p><strong>Downloads-Right click on the PDF and then choose “print”.</strong></p>
 </div>
 <ul>
-<li><em>The not so short introduction to Latex 2e</em>: <span class="exturl" data-url="aHR0cHM6Ly9taXJyb3ItaGsua29kZG9zLm5ldC9DVEFOL2luZm8vbHNob3J0L2VuZ2xpc2gvbHNob3J0LnBkZg==">English version<i class="fa fa-external-link-alt"></i></span>; <span class="exturl" data-url="aHR0cHM6Ly9taXJyb3ItaGsua29kZG9zLm5ldC9DVEFOL2luZm8vbHNob3J0L2NoaW5lc2UvbHNob3J0LXpoLWNuLnBkZg==">中文版<i class="fa fa-external-link-alt"></i></span>.</li>
+<li><em>The not so short introduction to Latex 2e</em>:  <span class="exturl" data-url="aHR0cHM6Ly9taXJyb3ItaGsua29kZG9zLm5ldC9DVEFOL2luZm8vbHNob3J0L2VuZ2xpc2gvbHNob3J0LnBkZg==">English version<i class="fa fa-external-link-alt"></i></span>; <span class="exturl" data-url="aHR0cHM6Ly9taXJyb3ItaGsua29kZG9zLm5ldC9DVEFOL2luZm8vbHNob3J0L2NoaW5lc2UvbHNob3J0LXpoLWNuLnBkZg==">中文版<i class="fa fa-external-link-alt"></i></span>.</li>
 <li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2h1YW5neGcvbG5vdGVz">Latex 笔记<i class="fa fa-external-link-alt"></i></span>.</li>
 <li><em>Tikz-cd User Guide</em>: <span class="exturl" data-url="aHR0cDovL2N0YW4ubWF0aC53YXNoaW5ndG9uLmVkdS90ZXgtYXJjaGl2ZS9ncmFwaGljcy9wZ2YvY29udHJpYi90aWt6LWNkL3Rpa3otY2QtZG9jLnBkZg==">English version<i class="fa fa-external-link-alt"></i></span>; <span class="exturl" data-url="aHR0cHM6Ly95dXh0ZWNoLmdpdGh1Yi5pby90ZXgvdGlrei1jZC5wZGY=">中文版<i class="fa fa-external-link-alt"></i></span>, 由<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3l1eHRlY2g=">向禹老师<i class="fa fa-external-link-alt"></i></span>翻译。</li>
 <li><span class="exturl" data-url="aHR0cDovL3d3dy5tYXRoLnViYy5jYS9+Y2F1dGlzL3Rvb2xzL3h5cGljLnBkZg==">XY-pic User Guide<i class="fa fa-external-link-alt"></i></span></li>
@@ -796,30 +790,31 @@ function bd_share(){
       </script>]]></content>
   </entry>
   <entry>
-    <title>相亲交友(Blind date)</title>
+    <title>单身找对象</title>
     <url>/blog/love.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="关于我">关于我</h3>
-<h4 id="基本信息">基本信息</h4>
-<ol type="1">
-<li>1992/07/27/(狮子座)，身高174, 体型胖壮，大学毕业后体重最低可能是去年的153斤，减肥ing... 一寸照片（毕业证照片）见侧边栏Overview.</li>
-<li>出生于江西省高安县，老家农村；4口之家，有一弟弟，已参加工作和首付房款（在安徽）。</li>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="自我介绍"><a class="markdownIt-Anchor" href="#自我介绍"></a> 自我介绍</h4>
+<p><strong>【基本信息】</strong></p>
+<ol>
+<li>1992/07/27/(狮子座)，身高174, 体型胖壮，大学毕业后体重最低可能是去年的153斤，减肥ing… 一寸照片（毕业证照片）见侧边栏Overview.</li>
+<li>出生于江西省高安县，老家农村；四口之家，有一弟弟，已参加工作和首付房款（在安徽）。</li>
 <li>2015/07/ 本科毕业于大连理工大学；2020/07/ 毕业于中科院数学与系统科学研究院，基础数学专业，获理学博士学位。未来职业是大学教师, 偏向南方高校(未定)。</li>
 <li>目前租住北京，等待9月份英国某一国际博士后项目申请的评审结果通知，成功机会小(中国只有2个名额)；另一选择是北大数学科学学院的博士后，之前已找好合作导师。9月份会去河北访学过渡一下，预计3个月左右。</li>
 </ol>
-<h4 id="业余爱好">业余爱好</h4>
+<p><strong>【业余爱好】</strong></p>
 <ul>
-<li>喜欢听歌(流行和古典居多)但不会唱歌； 喜欢追古装剧，例如三生三世两部，香蜜等；也看一些国漫或者日漫。偶尔玩一下游戏，看看游戏直播。爬山或者滑雪之类的户外活动每年都有参加。</li>
+<li>喜欢听歌(流行和古典居多)但不会唱歌； 喜欢追古装剧，例如三生三世两部，香蜜等；也看一些国漫或者日漫。偶尔玩一下游戏，看看游戏直播。爬山或者滑雪之类的户外活动每年都有参加。喜欢美食！</li>
 <li>普通追星，idol是IU李知恩。</li>
 </ul>
-<h3 id="关于你">关于你</h3>
-<ul>
+<h4 id="征友要求"><a class="markdownIt-Anchor" href="#征友要求"></a> 征友要求</h4>
+<ol>
 <li>希望对方目前是个北京在读/工作的非基础数学专业的研究生/毕业生。 学历要求：国内211高校硕士及以上，具体：1. 不论本科，硕士/博士学校985或者中科院研究院所； 2. 本科和硕士都在211或者双一流高校。</li>
-<li>希望温和善良；长相普通以上，看点眼缘。三观相近。</li>
-<li>希望对方出生于1993~1996年，身高162左右(<span class="math inline">\(\pm 3\)</span>),体重90-115.</li>
+<li>希望温和善良；长相普通以上，看眼缘。三观相近，聊得来最重要。</li>
+<li>希望对方出生于1993~1996年，身高162左右(<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>±</mo><mn>3</mn></mrow><annotation encoding="application/x-tex">\pm 3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">±</span><span class="mord">3</span></span></span></span>),体重90~115.</li>
 <li>对待男女朋友关系诚恳认真。与前任(若有)一刀两断。</li>
 <li>最好不是摩羯或者处女座。</li>
-<li>【加分项】爱运动；长得好看，身材好；喜欢做饭(我可刷碗)；自信开朗。有发表或接收的学术文章。</li>
-</ul>
+</ol>
+<p><strong>【加分项】</strong><br>
+爱运动；长得好看，身材好；喜欢做饭(我可刷碗)；自信开朗。有发表或接收的学术文章。</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
