@@ -42,9 +42,9 @@
 <ul>
 <li>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</li>
 </ul>
-<p>   Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="math inline">\(--\)</span> F.S. Fitzgerald, "The Great Gatsby"</p>
-<ul>
-<li>周国平， 《我喜欢生命本来的样子》： <div class="tabs" id="zhouguoping"><ul class="nav-tabs"><li class="tab active"><a href="#zhouguoping-1">周国平-恰到好处的爱</a></li><li class="tab"><a href="#zhouguoping-2">Tab 2</a></li></ul><div class="tab-content"><div class="tab-pane active" id="zhouguoping-1"><ol type="1">
+<p>   Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="math inline">\(--\)</span> F.S. Fitzgerald, "The Great Gatsby" - 时间，让深的东西越来越深，让浅的东西越来越浅。看的淡一点，伤的就会少一点，时间过了，爱情淡了，也就散了。别等不该等的人，别伤不该伤的心。我们真的要过了很久很久，才能够明白，自己真正怀念的，到底是怎样的人，怎样的事。—— 张爱玲 - 成年人恋爱需要： 物质，仪式感，惊喜， 安全感。——微博语录 - 所有的动力都来自内心的沸腾。如果你做不到一件事，无论是搞好关系，还是寻找爱人，还是减肥，都是因为你还没有真正想做。——毕淑敏 - 大多数女生要的爱其实是被爱；女孩想要的安全感，不过就是我需要你的时候我可以找到你，我说话的时候我知道你在听，我明白你在我面前没有秘密。——张爱玲 - 时间决定你会在生命中遇见谁，你的心决定你想要谁出现在你的生命里，而你的行为决定最后谁能留下。——亨利·戴维·梭罗 《瓦尔登湖》 - 爱情里最棒的心态就是： 我的一切付出都是心甘情愿，我对此绝口不提。 你若投桃报李，我会十分感激； 你若无动于衷，我也不灰心丧气。</p>
+<p>直到有一天我不再愿意这般爱你， 那就让我们一别两宽，各生欢喜。——微博语录 - 真正好的爱情，就是“不费力”。不需要可以讨好，努力经营，两个人已是顺气自然的舒服。如果一段情、一个人，得让你耗费巨大精力来取悦，这已注定不是能陪你到最后的缘分了。最爱你的人，不会舍得你如此辛苦。——苏芩 - 彼此随意，彼此在意。 - 妙语连珠是猎物，支支吾吾才是喜欢。——微博语录。 - 约着见一面，就能使见面的前后几天都沾着光，变成好日子。——钱钟书<br>
+- 不占朋友的便宜，是对待友情的最高修养。 - 若是心里有对方，自然是无有不应的。正所谓“爱不是问值不值得，爱是愿不愿意”。 - 直到有一天，曾经向空气一样必不可少的东西虽然仍是必须，但是不在刻不容缓；再往后，就只是重要而已了；再然后就变成我每年一月一日所列的诸多愿望之一了。——《高山上的小邮局》 - 你追到的人，就是不合适的。离开你的人，也注定非你良人。对于他们，你要做的不是拼命争取，而是扭头就走。所以要感谢那些对你说狠话的人。 - 握不住的沙，不如扬了它。 - 有大成就的，往往是有赤子之心的人。倘若失去了内心的纯真，反倒会让内心变得污浊。——宅猪《人道至尊》 - 周国平， 《我喜欢生命本来的样子》： </p><div class="tabs" id="zhouguoping"><ul class="nav-tabs"><li class="tab active"><a href="#zhouguoping-1">周国平-恰到好处的爱</a></li><li class="tab"><a href="#zhouguoping-2">Tab 2</a></li></ul><div class="tab-content"><div class="tab-pane active" id="zhouguoping-1"><ol type="1">
 <li>爱的本质是一种给予，而爱的幸福就在这给予之中。</li>
 <li>在这茫茫宇宙中，有谁不是想要人疼的孤儿？</li>
 <li>一种健全的爱侣关系的前提是相互尊重，包括尊重对方的隐私权。这种尊重一方面基于爱和信任，另一方面基于对人性弱点的宽容。羞于追问喜爱者难以启齿的小隐秘，乃是爱情中的自尊和教养。</li>
@@ -53,8 +53,7 @@
 <li>相爱者互不束缚对方，是他们对爱情有信心的表现。谁也不限制谁，到头来仍然是谁也离不开谁，这才是真爱。</li>
 <li>人的心是世上最矛盾的东西，它有时很野，想到处飞，但它最平凡最深邃的需要却是一个憩息地，那就是另一颗心。</li>
 <li>年轻人结伴走向生活，最多是志同道合。老年人结伴走向死亡，才真正是相依为命。</li>
-</ol></div><div class="tab-pane" id="zhouguoping-2"><p><strong>This is Tab 2.</strong></p></div></div></div></li>
-</ul>
+</ol></div><div class="tab-pane" id="zhouguoping-2"><p><strong>This is Tab 2.</strong></p></div></div></div><p></p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -283,6 +282,7 @@ You can also find some useful LaTex tips here. 1. <code>input{}</code> in the pr
 <ol start="3" type="1">
 <li><code>\substack</code> in math formulas, for example, the latex code <figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">\prod\limits_{\substack{i_1+\cdots+i_k=n\\i_1&lt;\cdots&lt;i_k}} x_{i_1}+\cdots +x_{i_k}</span><br></pre></td></tr></tbody></table></figure> produces the formula <span class="math display">\[\prod\limits_{\substack{i_1+\cdots+i_k=n\\i_1&lt;\cdots&lt;i_k}} x_{i_1}+\cdots +x_{i_k}\]</span></li>
 </ol>
+<p>4.The package "amsmath" provides the command <code>\boxed{}</code> to add a rectangular box outside the equation or something, eg:</p>
 <div class="note info"><p><strong>The not so short introduction to Latex 2e</strong></p>
 </div>
 <div class="tabs" id="introduction"><ul class="nav-tabs"><li class="tab active"><a href="#introduction-1">English version</a></li><li class="tab"><a href="#introduction-2">中文版</a></li><li class="tab"><a href="#introduction-3">LaTex 笔记</a></li></ul><div class="tab-content"><div class="tab-pane active" id="introduction-1"><div class="pdfobject-container" data-target="latex/lshort.pdf" data-height="600px">
@@ -800,18 +800,29 @@ function bd_share(){
   <entry>
     <title>相亲征友帖</title>
     <url>/blog/love.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="自我介绍">自我介绍</h4>
-<p><strong>【基本信息】</strong> 1. 1992/07/27/(狮子座)，身高174, 体型胖壮，大学毕业后体重最低可能是去年的153斤，减肥ing... 一寸照片（毕业证照片）见侧边栏Overview. 2. 出生于江西省高安县，老家农村；四口之家，有一弟弟，已参加工作和首付房款（在安徽）。 3. 2015/07/ 本科毕业于大连理工大学；2020/07/ 毕业于中科院数学与系统科学研究院，基础数学专业，获理学博士学位。未来职业是大学教师, 偏向南方高校(未定)。 4. 目前租住北京，等待9月份英国某一国际博士后项目申请的评审结果通知，成功机会小(中国只有2个名额)；另一选择是北大数学科学学院的博士后，之前已找好合作导师。9月份会去河北访学过渡一下，预计3个月左右。</p>
-<p><strong>【业余爱好】</strong> - 喜欢听歌(流行和古典居多)但不会唱歌； 喜欢追古装剧，例如三生三世两部，香蜜等；也看一些国漫或者日漫。偶尔玩一下游戏，看看游戏直播。爬山或者滑雪之类的户外活动每年都有参加。喜欢美食！ - 普通追星，idol是IU李知恩。</p>
-<h4 id="征友要求">征友要求</h4>
-<ol type="1">
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="自我介绍"><a class="markdownIt-Anchor" href="#自我介绍"></a> 自我介绍</h4>
+<p><strong>【基本信息】</strong></p>
+<ol>
+<li>1992/07/27/(狮子座)，身高174, 体型胖壮，大学毕业后体重最低可能是去年的153斤，减肥ing… 一寸照片（毕业证照片）见侧边栏Overview.</li>
+<li>出生于江西省高安县，老家农村；四口之家，有一弟弟，已参加工作和首付房款（在安徽）。</li>
+<li>2015/07/ 本科毕业于大连理工大学；2020/07/ 毕业于中科院数学与系统科学研究院，基础数学专业，获理学博士学位。未来职业是大学教师, 偏向南方高校(未定)。</li>
+<li>目前租住北京，等待9月份英国某一国际博士后项目申请的评审结果通知，成功机会小(中国只有2个名额)；另一选择是北大数学科学学院的博士后，之前已找好合作导师。9月份会去河北访学过渡一下，预计3个月左右。</li>
+</ol>
+<p><strong>【业余爱好】</strong></p>
+<ul>
+<li>喜欢听歌(流行和古典居多)但不会唱歌； 喜欢追古装剧，例如三生三世两部，香蜜等；也看一些国漫或者日漫。偶尔玩一下游戏，看看游戏直播。爬山或者滑雪之类的户外活动每年都有参加。喜欢美食！</li>
+<li>普通追星，idol是IU李知恩。</li>
+</ul>
+<h4 id="征友基本要求"><a class="markdownIt-Anchor" href="#征友基本要求"></a> 征友基本要求</h4>
+<ol>
 <li>希望对方目前是个北京在读/工作的非基础数学专业的研究生/毕业生。 学历要求：国内211高校硕士及以上，具体：1. 不论本科，硕士/博士学校985或者中科院研究院所； 2. 本科和硕士都在211或者双一流高校。</li>
 <li>希望温和善良；长相普通以上，看眼缘。三观相近，聊得来最重要。</li>
-<li>希望对方出生于1993<sub>1996年，身高162左右(<span class="math inline">\(\pm 3\)</span>),体重90</sub>115.</li>
+<li>希望对方出生于1993-1995年，身高162左右(<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>±</mo><mn>3</mn></mrow><annotation encoding="application/x-tex">\pm 3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">±</span><span class="mord">3</span></span></span></span>),体重90-115.</li>
 <li>对待男女朋友关系诚恳认真。与前任(若有)一刀两断。</li>
 <li>最好不是摩羯或者处女座。</li>
 </ol>
-<p><strong>【加分项】</strong> 爱运动；长得好看，身材好；喜欢做饭(我可刷碗)；自信开朗。有发表或接收的学术文章。</p>
+<p><strong>【加分项–若满足下列优势，上述基本要求中的一条可以适当放宽】</strong><br>
+爱运动；长得好看，身材好；喜欢做饭(我可刷碗)；自信开朗。有发表或接收的学术文章。</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
