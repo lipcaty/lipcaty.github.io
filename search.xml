@@ -78,37 +78,40 @@
     <title>Curriculum Vitae</title>
     <url>/CV/index.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
-<div class="note "><h4>
-Personal Info
-</h4>
-</div>
+<div class="note "><h4>Personal Info</h4></div>  
 <ul>
-<li>Basic: Born at Gao'an city, Jiangxi province, People's Republic of China.</li>
+<li>Basic: Born at Gao’an city, Jiangxi province, People’s Republic of China.</li>
 <li>Title: Dr. Pengcheng Li, graduated from AMSS, UCAS in 2020.</li>
-<li>Email: xiaotianshishou@163.com or lipcaty@amss.ac.cn</li>
+<li>Email: <span class="exturl" data-url="bWFpbHRvOnhpYW90aWFuc2hpc2hvdUAxNjMuY29t">xiaotianshishou@163.com<i class="fa fa-external-link-alt"></i></span> or <span class="exturl" data-url="bWFpbHRvOmxpcGNhdHlAYW1zcy5hYy5jbg==">lipcaty@amss.ac.cn<i class="fa fa-external-link-alt"></i></span></li>
 <li>Address: Department of Mathematics, Southen University of Science and Technology, Shenzhen 518055, P. R. China.</li>
 </ul>
-<div class="note "><h4>
-Background
-</h4>
-</div>
+<div class="note "><h4>Background</h4></div>  
 <ul>
-<li><p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Professor Jianzhong Pan.</p></li>
-<li><p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p></li>
+<li>
+<p>2020: Ph.D. in Pure Mathematics, AMSS, UCAS; advisor: Professor Jianzhong Pan.</p>
+</li>
+<li>
+<p>2015: B.S. in Mathematics and Applied Mathematics, School of Mathematics, Dalian University of Technology.</p>
+</li>
 </ul>
-<div class="note "><h4>
-Research Interests
-</h4>
-</div>
+<div class="note "><h4>Research Interests</h4></div>  
 <ul>
-<li>Homotopy theory. I am particularly interested in the unstable homotopy theory of Moore spaces and Chang complexes. I am also interested in their applications in the homotopy theory of Poincaré Duality complexes and manifolds and in the modular cohomotopy theory.</li>
+<li>Homotopy theory. I am particularly interested in the unstable homotopy theory of Moore spaces and Chang complexes.  I am also interested in their applications in the homotopy theory of Poincaré Duality complexes and manifolds and in the modular cohomotopy theory.</li>
+</ul>
+<div class="note "><h4>Publicated Articles</h4></div>  
+<p>You can find my ORCID (<i class="fab fa-orcid" aria-hidden="true"></i>) on the sidebar and my MR author ID is <span class="exturl" data-url="aHR0cHM6Ly9tYXRoc2NpbmV0LmFtcy5vcmcvbWF0aHNjaW5ldC9zZWFyY2gvYXV0aG9yLmh0bWw/bXJhdXRoaWQ9MTMyNjA3MA==">1326070<i class="fa fa-external-link-alt"></i></span>.</p>
+<ul>
+<li>
+<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <a href="https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20" target="_blank" rel="noopener">Periodic problem on homotopy groups of Chang complexes <span class="katex"><span class="katex-mathml"><math><semantics><mrow><msubsup><mi>C</mi><mi>r</mi><mrow><mi>n</mi><mo>+</mo><mn>2</mn><mo separator="true">,</mo><mi>r</mi></mrow></msubsup></mrow><annotation encoding="application/x-tex">C^{n+ 2, r}_{r}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.061108em;vertical-align:-0.247em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-2.4530000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">2</span><span class="mpunct mtight">,</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.247em;"><span></span></span></span></span></span></span></span></span></span></a>, Homology, Homotopy and Applications, vol. 21(2), 2019: 363-375.</p>
+</li>
+<li>
+<p>Pengcheng Li, <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMjEudjIzLm4xLmEx">(Co)Homology self-closeness numbers of simply-connected spaces<i class="fa fa-external-link-alt"></i></span>, Homology, Homotopy and Applications, vol. 23(1), 2020: 1-16.</p>
+</li>
 </ul>
 <hr>
-<div style="text-align:center;">
-<a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
+<div style="text-align:center;"><a class="btn" href="https://www.researchgate.net/account.UserCV.getCV.html?cvId=5ed4a79844aad26e7834dd06" target="_blank" rel="noopener" title="CV">
 <i class="far fa-file-pdf fa-fw fa-lg"></i>PDF Copy
-</a>
-</div>
+</a></div>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
