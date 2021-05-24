@@ -768,6 +768,26 @@ document.querySelectorAll('.pdfobject-container').forEach(element => {
 
   
 
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
+<script>
+NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
+    var gitalk = new Gitalk({
+      clientID    : 'ef568588f0dfbeb9d009',
+      clientSecret: '8985b6fc9523d9247ec328e019ffa73fd5ba95ad',
+      repo        : 'website-comments',
+      owner       : 'lipcaty',
+      admin       : ['lipcaty'],
+      id          : 'f0732d414f2268faaaf9e7ac2f512442',
+        language: '',
+      distractionFreeMode: false
+    });
+    gitalk.render('gitalk-container');
+  }, window.Gitalk);
+});
+</script>
+
 <script>
   function loadCount() {
     var d = document, s = d.createElement('script');
@@ -797,26 +817,6 @@ document.querySelectorAll('.pdfobject-container').forEach(element => {
       (d.head || d.body).appendChild(s);
     }
   });
-</script>
-
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
-
-<script>
-NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : 'ef568588f0dfbeb9d009',
-      clientSecret: '8985b6fc9523d9247ec328e019ffa73fd5ba95ad',
-      repo        : 'website-comments',
-      owner       : 'lipcaty',
-      admin       : ['lipcaty'],
-      id          : 'f0732d414f2268faaaf9e7ac2f512442',
-        language: '',
-      distractionFreeMode: false
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
-});
 </script>
 
     </div>
