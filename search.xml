@@ -35,40 +35,6 @@
       </script>]]></content>
   </entry>
   <entry>
-    <title>LOVE</title>
-    <url>/Love/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="h1">
-</h1>
-<canvas>
-</canvas>
-<script src="https://cdn.jsdelivr.net/gh/njzjz/gist@next-280/280.min.js"></script>
-<script>
-window.onload=function starttime(){
-        time(h1,'2021,5,20');     // 在一起的时间
-        ptimer = setTimeout(starttime,1000); // 添加计时器
-}
-</script>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
     <title>Curriculum Vitae</title>
     <url>/CV/index.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><font size="5"><strong>Pengcheng Li</strong> (<strong>Lǐ Péngchéng</strong>/李鹏程)</font></p>
@@ -96,7 +62,7 @@ window.onload=function starttime(){
 <p>You can find my ORCID (<i class="fab fa-orcid" aria-hidden="true"></i>) on the sidebar and my MR author ID is <span class="exturl" data-url="aHR0cHM6Ly9tYXRoc2NpbmV0LmFtcy5vcmcvbWF0aHNjaW5ldC9zZWFyY2gvYXV0aG9yLmh0bWw/bXJhdXRoaWQ9MTMyNjA3MA==">1326070<i class="fa fa-external-link-alt"></i></span>.</p>
 <ul>
 <li>
-<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">Periodic problem on homotopy groups of Chang complexes $C^{n+2, r}_r$<i class="fa fa-external-link-alt"></i></span>, Homology, Homotopy and Applications, vol. 21(2), 2019: 363-375.</p>
+<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <a href="https://dx.doi.org/10.4310/HHA.2019.v21.n2.a20" target="_blank" rel="noopener">Periodic problem on homotopy groups of Chang complexes <span class="katex"><span class="katex-mathml"><math><semantics><mrow><msubsup><mi>C</mi><mi>r</mi><mrow><mi>n</mi><mo>+</mo><mn>2</mn><mo separator="true">,</mo><mi>r</mi></mrow></msubsup></mrow><annotation encoding="application/x-tex">C^{n+2, r}_r</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.061108em;vertical-align:-0.247em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-2.4530000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">2</span><span class="mpunct mtight">,</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.247em;"><span></span></span></span></span></span></span></span></span></span></a>, Homology, Homotopy and Applications, vol. 21(2), 2019: 363-375.</p>
 </li>
 <li>
 <p>Pengcheng Li, <span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMjEudjIzLm4xLmEx">(Co)Homology self-closeness numbers of simply-connected spaces<i class="fa fa-external-link-alt"></i></span>, Homology, Homotopy and Applications, vol. 23(1), 2020: 1-16.</p>
@@ -160,9 +126,20 @@ window.onload=function starttime(){
       </script>]]></content>
   </entry>
   <entry>
-    <title>Gallery of Love</title>
-    <url>/Love/photo.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><script>
+    <title>娜娜💘💘鹏程</title>
+    <url>/Love/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p align="right">💗💑</p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/njzjz/gist@next-280/280.min.css">
+<h1 id="h1"></h1>
+<canvas></canvas>
+<script src="https://cdn.jsdelivr.net/gh/njzjz/gist@next-280/280.min.js"></script>
+<script>
+window.onload=function starttime(){
+        time(h1,'2021,5,20');     // 在一起的时间
+        ptimer = setTimeout(starttime,1000); // 添加计时器
+}
+</script>
+<script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
@@ -183,17 +160,9 @@ window.onload=function starttime(){
       </script>]]></content>
   </entry>
   <entry>
-    <title>点滴记录</title>
-    <url>/Love/records.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="初见-2021年5月2日-4日"><a class="header-anchor" href="#初见-2021年5月2日-4日">¶</a>初见  2021年5月2日~4日</h4>
-<p>CC去广州找Nana玩，天公不作美，几乎连下三天雨。我们在正佳广场没找到合适的吃饭地，索性一起去看了电影《悬崖之上》；在蛙小侠吃了牛蛙，去了逛一个以为可以划船的公园；最后一天一起逛了南校去区，一起吃了蔡澜港式点心。很开心的五一假期。</p>
-<h4 id="二见倾心-5月16日"><a class="header-anchor" href="#二见倾心-5月16日">¶</a>二见倾心 5月16日</h4>
-<p>Nana前几天说听到我再去找她玩有点开心，但不知道我什么意思，我明确表示想和她在一起。然后周日CC和Nana在长隆欢乐世界游玩。 我们最喜欢的是下午的魔术表演，最后一幕：把一个人的手锁着然后把他吊起来，最后这个人不仅逃脱了还出现在观众席的最后面，我们俩都惊呆了！我们只玩了一些比较温和的项目，比如飞椅，空中警察（旋转小飞机），音乐船。</p>
-<p>晚上快分别的时候CC向Nana袒露心迹， 一起约定继续相处发展。</p>
-<h4 id="520表白成功"><a class="header-anchor" href="#520表白成功">¶</a>520表白成功</h4>
-<h4 id="确定关系后的第一次约会-5月23日"><a class="header-anchor" href="#确定关系后的第一次约会-5月23日">¶</a>确定关系后的第一次约会 5月23日</h4>
-<p>Nana来深圳找CC玩。</p>
-<script>
+    <title>Gallery of Love</title>
+    <url>/Love/photo.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
@@ -239,31 +208,17 @@ window.onload=function starttime(){
       </script>]]></content>
   </entry>
   <entry>
-    <title>国内访问谷歌和谷歌学术的方法</title>
-    <url>/blog/GSearch.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>如果你在国内苦于无法打开谷歌搜索或者谷歌学术网站，可以参考下面的方法（步骤）来搜索文章； 如果你知道文章的DOI地址且DOI地址打开后无法直接下载，请跳转3:</p>
-<ol>
-<li>
-<p>下载安装<span class="exturl" data-url="aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS96aC1jbi9lZGdl">新版Edge浏览器<i class="fa fa-external-link-alt"></i></span>, 打开本地扩展主页(edge://extensions/), 如下图设置，这样就能调用谷歌商店里的扩展了：<br>
-<img data-src="pictures/extensions.png" alt=""></p>
-</li>
-<li>
-<p>打开edge扩展主页：<span class="exturl" data-url="aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL01pY3Jvc29mdC1FZGdlLUV4dGVuc2lvbnMtSG9tZT9obD16aC1DTg==">https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN<i class="fa fa-external-link-alt"></i></span> ， 搜索“谷歌助手”，这里推荐Ghelper或者iGuge， 本人用的是iGuge. 安装好扩展并且打开扩展就可以打开谷歌的网站了，包括谷歌搜索，谷歌学术，Gmail等。 如果你想要上其它国内被封的外网，也可以付费购买VIP。iGuge扩展设置如下：<br>
-<img data-src="pictures/iguge.png" alt=""></p>
-</li>
-<li>
-<p>谷歌搜索或者谷歌学术搜索你需要的论文， 点击搜索到的文章的链接。如果打开的链接有文章的下载链接，下载即可；否则，在打开的页面中寻找并复制文章的DOI. 例如，在谷歌学术中搜索“periodic problem on the homotopy groups of Chang ", 搜索结果如下，<br>
-<img data-src="pictures/paper.png" alt=""><br>
-点击第一个链接，在跳转的网页中找到并复制DOI地址:<br>
-<img data-src="pictures/doi.png" alt=""><br>
-<strong>注意：这篇文章可以直接下载！</strong></p>
-</li>
-<li>
-<p>打开Sci-Hub 网站，我用的是 <span class="exturl" data-url="aHR0cHM6Ly9nZnNvc28uOTlsYi5uZXQvc2NpLWh1Yi5odG1sJUVGJUJDJThD">https://gfsoso.99lb.net/sci-hub.html，<i class="fa fa-external-link-alt"></i></span> 输入文章的DOI地址搜索并下载。完成！</p>
-</li>
-</ol>
-<h4> 声明  </h4>
-请不要通过上述方法做出危害自身，他人或者社会等行为；否则后果自负，与本人无关。<script>
+    <title>点滴记录</title>
+    <url>/Love/records.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="初见-2021年5月2日~4日"><a class="markdownIt-Anchor" href="#初见-2021年5月2日~4日"></a> 初见  2021年5月2日~4日</h4>
+<p>CC去广州找Nana玩，天公不作美，几乎连下三天雨。我们在正佳广场没找到合适的吃饭地，索性一起去看了电影《悬崖之上》；在蛙小侠吃了牛蛙，去了逛一个以为可以划船的公园；最后一天一起逛了南校去区，一起吃了蔡澜港式点心。很开心的五一假期。</p>
+<h4 id="二见倾心-5月16日"><a class="markdownIt-Anchor" href="#二见倾心-5月16日"></a> 二见倾心 5月16日</h4>
+<p>Nana前几天说听到我再去找她玩有点开心，但不知道我什么意思，我明确表示想和她在一起。然后周日CC和Nana在长隆欢乐世界游玩。 我们最喜欢的是下午的魔术表演，最后一幕：把一个人的手锁着然后把他吊起来，最后这个人不仅逃脱了还出现在观众席的最后面，我们俩都惊呆了！我们只玩了一些比较温和的项目，比如飞椅，空中警察（旋转小飞机），音乐船。</p>
+<p>晚上快分别的时候CC向Nana袒露心迹， 一起约定继续相处发展。</p>
+<h4 id="520表白成功"><a class="markdownIt-Anchor" href="#520表白成功"></a> 520表白成功</h4>
+<h4 id="确定关系后的第一次约会-5月23日"><a class="markdownIt-Anchor" href="#确定关系后的第一次约会-5月23日"></a> 确定关系后的第一次约会 5月23日</h4>
+<p>Nana来深圳找CC玩。</p>
+<script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
@@ -286,11 +241,11 @@ window.onload=function starttime(){
   <entry>
     <title>读书笔记</title>
     <url>/blog/booknotes.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录"><a class="header-anchor" href="#语录">¶</a>语录</h4>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="语录"><a class="markdownIt-Anchor" href="#语录"></a> 语录</h4>
 <ul>
 <li>你如果认识从前的我，也许你会原谅现在的我。——张爱玲，《倾城之恋》</li>
 </ul>
-<p>   Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. $–$ F.S. Fitzgerald, “The Great Gatsby”</p>
+<p>   Whenever you feel like criticizing any one,just remember that all the people in this world haven’t had the advantages that you’ve had. <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>−</mo><mo>−</mo></mrow><annotation encoding="application/x-tex">--</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mord">−</span></span></span></span> F.S. Fitzgerald, “The Great Gatsby”</p>
 <ul>
 <li>
 <p>时间，让深的东西越来越深，让浅的东西越来越浅。看的淡一点，伤的就会少一点，时间过了，爱情淡了，也就散了。别等不该等的人，别伤不该伤的心。我们真的要过了很久很久，才能够明白，自己真正怀念的，到底是怎样的人，怎样的事。—— 张爱玲</p>
@@ -358,6 +313,51 @@ window.onload=function starttime(){
 <li>人的心是世上最矛盾的东西，它有时很野，想到处飞，但它最平凡最深邃的需要却是一个憩息地，那就是另一颗心。</li>
 <li>年轻人结伴走向生活，最多是志同道合。老年人结伴走向死亡，才真正是相依为命。</li>
 </ol></div><div class="tab-pane" id="zhouguoping-2"><p><strong>This is Tab 2.</strong></p></div></div></div><script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>国内访问谷歌和谷歌学术的方法</title>
+    <url>/blog/GSearch.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>如果你在国内苦于无法打开谷歌搜索或者谷歌学术网站，可以参考下面的方法（步骤）来搜索文章； 如果你知道文章的DOI地址且DOI地址打开后无法直接下载，请跳转3:</p>
+<ol>
+<li>
+<p>下载安装<span class="exturl" data-url="aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS96aC1jbi9lZGdl">新版Edge浏览器<i class="fa fa-external-link-alt"></i></span>, 打开本地扩展主页(edge://extensions/), 如下图设置，这样就能调用谷歌商店里的扩展了：<br>
+<img data-src="pictures/extensions.png" alt=""></p>
+</li>
+<li>
+<p>打开edge扩展主页：<span class="exturl" data-url="aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL01pY3Jvc29mdC1FZGdlLUV4dGVuc2lvbnMtSG9tZT9obD16aC1DTg==">https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN<i class="fa fa-external-link-alt"></i></span> ， 搜索“谷歌助手”，这里推荐Ghelper或者iGuge， 本人用的是iGuge. 安装好扩展并且打开扩展就可以打开谷歌的网站了，包括谷歌搜索，谷歌学术，Gmail等。 如果你想要上其它国内被封的外网，也可以付费购买VIP。iGuge扩展设置如下：<br>
+<img data-src="pictures/iguge.png" alt=""></p>
+</li>
+<li>
+<p>谷歌搜索或者谷歌学术搜索你需要的论文， 点击搜索到的文章的链接。如果打开的链接有文章的下载链接，下载即可；否则，在打开的页面中寻找并复制文章的DOI. 例如，在谷歌学术中搜索“periodic problem on the homotopy groups of Chang ", 搜索结果如下，<br>
+<img data-src="pictures/paper.png" alt=""><br>
+点击第一个链接，在跳转的网页中找到并复制DOI地址:<br>
+<img data-src="pictures/doi.png" alt=""><br>
+<strong>注意：这篇文章可以直接下载！</strong></p>
+</li>
+<li>
+<p>打开Sci-Hub 网站，我用的是 <span class="exturl" data-url="aHR0cHM6Ly9nZnNvc28uOTlsYi5uZXQvc2NpLWh1Yi5odG1sJUVGJUJDJThD">https://gfsoso.99lb.net/sci-hub.html，<i class="fa fa-external-link-alt"></i></span> 输入文章的DOI地址搜索并下载。完成！</p>
+</li>
+</ol>
+<h4> 声明  </h4>
+请不要通过上述方法做出危害自身，他人或者社会等行为；否则后果自负，与本人无关。<script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
@@ -504,8 +504,9 @@ Write a “macros.tex” file  storing the macros(\usepackage{xx}) and self-defi
 <li><code>\substack</code> in math formulas, for example, the latex code</li>
 </ol>
 <figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">\prod\limits_{\substack{i_1+\cdots+i_k=n\\i_1&lt;\cdots&lt;i_k}} x_{i_1}+\cdots +x_{i_k}</span><br></pre></td></tr></tbody></table></figure>
-<p>produces the formula<br>
-$$\prod\limits_{\substack{i_1+\cdots+i_k=n\i_1&lt;\cdots&lt;i_k}} x_{i_1}+\cdots +x_{i_k}$$</p>
+<p>produces the formula</p>
+<p class="katex-block katex-error" title="ParseError: KaTeX parse error: Undefined control sequence: \substack at position 15: \prod\limits_{\̲s̲u̲b̲s̲t̲a̲c̲k̲{i_1+\cdots+i_k…">\prod\limits_{\substack{i_1+\cdots+i_k=n\\i_1&lt;\cdots&lt;i_k}} x_{i_1}+\cdots +x_{i_k}
+</p>
 <p>4.The package “amsmath” provides the command <code>\boxed{}</code>  to add a rectangular box outside the equation or something, eg:</p>
 <div class="note info"><p><strong>The not so short introduction to Latex 2e</strong></p>
 </div>
@@ -548,7 +549,7 @@ $$\prod\limits_{\substack{i_1+\cdots+i_k=n\i_1&lt;\cdots&lt;i_k}} x_{i_1}+\cdots
 <div class="note "><h4> Articles/Preprints</h4></div>
 <ul>
 <li>
-<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes $C^{n+2,r}_{r}$</em>. Homology, Homotopy and Applications, vol.21(2), 2019: 363-375.<br>
+<p>Zhongjian Zhu, Pengcheng Li and Jianzhong Pan. <em>Periodic problem on homotopy groups of Chang complexes <span class="katex"><span class="katex-mathml"><math><semantics><mrow><msubsup><mi>C</mi><mi>r</mi><mrow><mi>n</mi><mo>+</mo><mn>2</mn><mo separator="true">,</mo><mi>r</mi></mrow></msubsup></mrow><annotation encoding="application/x-tex">C^{n+2,r}_{r}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.061108em;vertical-align:-0.247em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-2.4530000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">2</span><span class="mpunct mtight">,</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.247em;"><span></span></span></span></span></span></span></span></span></span></em>. Homology, Homotopy and Applications, vol.21(2), 2019: 363-375.<br>
 DOI:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwMTkudjIxLm4yLmEyMA==">10.4310/HHA.2019.v21.n2.a20<i class="fa fa-external-link-alt"></i></span></p>
 </li>
 <li>
@@ -605,34 +606,34 @@ DOI:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwM
     <url>/blog/marticles/Maslow.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><em>By <span class="exturl" data-url="aHR0cHM6Ly93d3cudGhvdWdodGNvLmNvbS9lbGl6YWJldGgtaG9wcGVyLTQxNTc4MTE=">Elizabeth Hopper<i class="fa fa-external-link-alt"></i></span>, <span class="exturl" data-url="aHR0cHM6Ly90aG91Z2h0Y28uY29tL21hc2xvd3MtaGllcmFyY2h5LW9mLW5lZWRzLTQ1ODI1NzE=">Maslow’s Hierarchy of Needs Explained<i class="fa fa-external-link-alt"></i></span>, Updated February 24, 2020.</em></p>
 <p>Maslow’s hierarchy of needs is a theory by Abraham Maslow, which puts forward that people are motivated by five basic categories of needs: physiological, safety, love, esteem, and self-actualization.</p>
-<h3 id="What-Is-Maslow’s-Hierarchy-of-Needs"><a class="header-anchor" href="#What-Is-Maslow’s-Hierarchy-of-Needs">¶</a>What Is Maslow’s Hierarchy of Needs?</h3>
+<h3 id="what-is-maslows-hierarchy-of-needs"><a class="markdownIt-Anchor" href="#what-is-maslows-hierarchy-of-needs"></a> What Is Maslow’s Hierarchy of Needs?</h3>
 <p>In order to better understand what motivates human beings, Maslow proposed that human needs can be organized into a hierarchy. This hierarchy ranges from more concrete needs such as food and water to abstract concepts such as self-fulfillment. According to Maslow, when a lower need is met, the next need on the hierarchy becomes our focus of attention.</p>
 <p>These are the five categories of needs according to Maslow:</p>
-<h4 id="Physiological"><a class="header-anchor" href="#Physiological">¶</a>Physiological</h4>
+<h4 id="physiological"><a class="markdownIt-Anchor" href="#physiological"></a> Physiological</h4>
 <p>These refer to basic physical needs like drinking when thirsty or eating when hungry. According to Maslow, some of these needs involve our efforts to meet the body’s need for homeostasis; that is, maintaining consistent levels in different bodily systems (for example, maintaining a body temperature of 98.6°).<a href="#ref-1"><sup>1</sup></a></p>
 <p>Maslow considered physiological needs to be the most essential of our needs. If someone is lacking in more than one need, they’re likely to try to meet these physiological needs first. For example, if someone is extremely hungry, it’s hard to focus on anything else besides food. Another example of a physiological need would be the need for adequate sleep.</p>
-<h4 id="Safety"><a class="header-anchor" href="#Safety">¶</a>Safety</h4>
+<h4 id="safety"><a class="markdownIt-Anchor" href="#safety"></a> Safety</h4>
 <p>Once people’s physiological requirements are met, the next need that arises is a safe environment. Our safety needs are apparent even early in childhood, as children have a need for safe and predictable environments and typically react with fear or anxiety when these are not met. Maslow pointed out that in adults living in developed nations, safety needs are more apparent in emergency situations (e.g. war and disasters), but this need can also explain why we tend to prefer the familiar or why we do things like purchase insurance and contribute to a savings account.</p>
-<h4 id="Love-and-Belonging"><a class="header-anchor" href="#Love-and-Belonging">¶</a>Love and Belonging</h4>
+<h4 id="love-and-belonging"><a class="markdownIt-Anchor" href="#love-and-belonging"></a> Love and Belonging</h4>
 <p>According to Maslow, the next need in the hierarchy involves feeling loved and accepted. This need includes both romantic relationships as well as ties to friends and family members. It also includes our need to feel that we belong to a social group. Importantly, this need encompasses both feeling loved and feeling love towards others.</p>
 <p>Since Maslow’s time, researchers have continued to explore how love and belonging needs impact well-being. For example, having social connections is related to better physical health and, conversely, feeling isolated (i.e. having unmet belonging needs) has negative consequences for health and well-being.<a href="#ref-2"><sup>2</sup></a></p>
-<h4 id="Esteem"><a class="header-anchor" href="#Esteem">¶</a>Esteem</h4>
+<h4 id="esteem"><a class="markdownIt-Anchor" href="#esteem"></a> Esteem</h4>
 <p>Our esteem needs involve the desire to feel good about ourselves. According to Maslow, esteem needs include two components. The first involves feeling self-confidence and feeling good about oneself. The second component involves feeling valued by others; that is, feeling that our achievements and contributions have been recognized by other people. When people’s esteem needs are met, they feel confident and see their contributions and achievements as valuable and important. However, when their esteem needs are not met, they may experience what psychologist Alfred Adler called “feelings of inferiority.”</p>
-<h4 id="Self-Actualization"><a class="header-anchor" href="#Self-Actualization">¶</a>Self-Actualization</h4>
+<h4 id="self-actualization"><a class="markdownIt-Anchor" href="#self-actualization"></a> Self-Actualization</h4>
 <p>Self-actualization refers to feeling fulfilled, or feeling that we are living up to our potential. One unique feature of self-actualization is that it looks different for everyone. For one person, self-actualization might involve helping others; for another person, it might involve achievements in an artistic or creative field. Essentially, self-actualization means feeling that we are doing what we believe we are meant to do. According to Maslow, achieving self-actualization is relatively rare, and his examples of famous self-actualized individuals include Abraham Lincoln, Albert Einstein, and Mother Teresa.</p>
 <p><img data-src="pics/maslow.jpg" alt=""></p>
-<h3 id="How-People-Progress-Through-the-Hierarchy-of-Needs"><a class="header-anchor" href="#How-People-Progress-Through-the-Hierarchy-of-Needs">¶</a>How People Progress Through the Hierarchy of Needs</h3>
+<h3 id="how-people-progress-through-the-hierarchy-of-needs"><a class="markdownIt-Anchor" href="#how-people-progress-through-the-hierarchy-of-needs"></a> How People Progress Through the Hierarchy of Needs</h3>
 <p>Maslow postulated that there were several prerequisites to meeting these needs. For example, having freedom of speech and freedom of expression or living in a just and fair society aren’t specifically mentioned within the hierarchy of needs, but Maslow believed that having these things makes it easier for people to achieve their needs.</p>
 <p>In addition to these needs, Maslow also believed that we have a need to learn new information and to better understand the world around us. This is partially because learning more about our environment helps us meet our other needs; for example, learning more about the world can help us feel safer, and developing a better understanding of a topic one is passionate about can contribute to self-actualization. However, Maslow also believed that this call to understand the world around us is an innate need as well.</p>
 <p>Although Maslow presented his needs in a hierarchy, he also acknowledged that meeting each need is not an all-or-nothing phenomenon. Consequently, people don’t need to completely satisfy one need in order for the next need in the hierarchy to emerge. Maslow suggests that, at any given time, most people tend to have each of their needs partly met—and that needs lower on the hierarchy are typically the ones that people have made the most progress towards.</p>
 <p>Additionally, Maslow pointed out that one behavior might meet two or more needs. For example, sharing a meal with someone meets the physiological need for food, but it might also meet the need of belonging. Similarly, working as a paid caregiver would provide someone with income (which allows them to pay for food and shelter), but can also provide them a sense of social connection and fulfillment.</p>
-<h3 id="Testing-Maslow’s-Theory"><a class="header-anchor" href="#Testing-Maslow’s-Theory">¶</a>Testing Maslow’s Theory</h3>
+<h3 id="testing-maslows-theory"><a class="markdownIt-Anchor" href="#testing-maslows-theory"></a> Testing Maslow’s Theory</h3>
 <p>In the time since Maslow published his original paper, his idea that we go through five specific stages hasn’t always been supported by research. In a 2011 study of human needs across cultures, researchers Louis Tay and Ed Diener looked at data from over 60,000 participants in over 120 different countries. They assessed six needs similar to Maslow’s: basic needs (similar to physiological needs), safety, love, pride and respect (similar to esteem needs), mastery, and autonomy. They found that meeting these needs was indeed linked to well-being. In particular, having basic needs met was linked to people’s overall assessment of their lives, and feeling positive emotions was linked to meeting the needs of feeling loved and respected.<a href="#ref-3"><sup>3</sup></a></p>
 <p>However, although Tay and Diener found support for some of Maslow’s basic needs, the order that people go through these steps seems to be more of a rough guide than a strict rule. For example, people living in poverty might have had trouble meeting their needs for food and safety, but these individuals still sometimes reported feeling loved and supported by the people around them. Meeting the previous needs in the hierarchy wasn’t always a prerequisite for people to meet their love and belonging needs.</p>
-<h3 id="Maslow’s-Impact-on-Other-Researchers"><a class="header-anchor" href="#Maslow’s-Impact-on-Other-Researchers">¶</a>Maslow’s Impact on Other Researchers</h3>
+<h3 id="maslows-impact-on-other-researchers"><a class="markdownIt-Anchor" href="#maslows-impact-on-other-researchers"></a> Maslow’s Impact on Other Researchers</h3>
 <p>Maslow’s theory has had a strong influence on other researchers, who have sought to build on his theory. For example, psychologists Carol Ryff and Burton Singer drew on Maslow’s theories when developing their theory of eudaimonic well-being. According to Ryff and Singer, eudaimonic well-being refers to feeling purpose and meaning—which is similar to Maslow’s idea of self-actualization.<a href="#ref-4"><sup>4</sup></a></p>
 <p>Psychologists Roy Baumeister and Mark Leary built on Maslow’s idea of love and belonging needs. According to Baumeister and Leary, feeling that one belongs is a fundamental need, and they suggest that feeling isolated or left out can have negative consequences for mental and physical health.<a href="#ref-5"><sup>5</sup></a></p>
-<h3 id="References"><a class="header-anchor" href="#References">¶</a>References</h3>
+<h3 id="references"><a class="markdownIt-Anchor" href="#references"></a> References</h3>
 <div id="ref-1"></div>
 <ol>
 <li>Modell, Harold, et al. “A Physiologist’s View of Homeostasis.” Advances in Physiology Education, vol. 39, no. 4, 1 Dec. 2015, doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjExNTIvYWR2YW4uMDAxMDcuMjAxNQ==">10.1152/advan.00107.2015<i class="fa fa-external-link-alt"></i></span></li>
@@ -653,7 +654,7 @@ DOI:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwM
 <ol start="5">
 <li>Pillow, David R., et al. “The Need to Belong and Its Association With Fully Satisfying Relationships: A Tale of Two Measures.” Personality and Individual Differences, vol. 74, Feb. 2015, pp. 259-264., doi:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjEwMTYvai5wYWlkLjIwMTQuMTAuMDMx">10.1016/j.paid.2014.10.031<i class="fa fa-external-link-alt"></i></span></li>
 </ol>
-<h3 id="Additional-References"><a class="header-anchor" href="#Additional-References">¶</a>Additional References</h3>
+<h3 id="additional-references"><a class="markdownIt-Anchor" href="#additional-references"></a> Additional References</h3>
 <ul>
 <li>
 <p>Baumeister, Roy F., and Mark R. Leary. “The Need to Belong: Desire for Interpersonal Attachments as a Fundamental Human Motivation.” Psychological Bulletin 117.3 (1995): 97-529. <span class="exturl" data-url="aHR0cHM6Ly93d3cubmNiaS5ubG0ubmloLmdvdi9wdWJtZWQvNzc3NzY1MQ==">https://www.ncbi.nlm.nih.gov/pubmed/7777651<i class="fa fa-external-link-alt"></i></span></p>
