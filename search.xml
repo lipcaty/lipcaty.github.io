@@ -126,40 +126,6 @@
       </script>]]></content>
   </entry>
   <entry>
-    <title>娜娜💘💘鹏程</title>
-    <url>/Love/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p align="right">💗💑</p>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/njzjz/gist@next-280/280.min.css">
-<h1 id="h1"></h1>
-<canvas></canvas>
-<script src="https://cdn.jsdelivr.net/gh/njzjz/gist@next-280/280.min.js"></script>
-<script>
-window.onload=function starttime(){
-        time(h1,'2021,5,20');     // 在一起的时间
-        ptimer = setTimeout(starttime,1000); // 添加计时器
-}
-</script>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
     <title>Gallery of Love</title>
     <url>/Love/photo.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><script>
@@ -676,6 +642,34 @@ DOI:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwM
 </li>
 </ul>
  <center>       QED</center><script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>我们</title>
+    <url>/Love/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>一个人若能做自己喜欢做的事，并且靠这养活自己，同时能和自己喜欢的人在一起，并且使他们感到快乐，即可称为幸福。 --周国平</p>
+<hr>
+<div style="text-align:center;">
+<a href="https://lipcaty.github.io/Love/" target="_Blank">娜娜💘💘鹏程 在一起多久了呢 📅</a>
+</div>
+<script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
