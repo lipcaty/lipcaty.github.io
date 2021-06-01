@@ -93,183 +93,11 @@
       </script>]]></content>
   </entry>
   <entry>
-    <title>❤️ Our Love List ❤️</title>
-    <url>/Love/list.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ol>
-<li>一起吃好多好多次饭!! 多亲亲抱抱!!</li>
-<li>希望我们不要吵架！ Nana非常害怕吵架的！</li>
-<li>多多约奶茶 ❤️</li>
-<li>手牵手逛街逛校园轧马路。❤️</li>
-<li>去大连玩，去大连理工大学拍连理照</li>
-<li>一起去上海Disney，看烟花</li>
-<li>去Nana家做客 去海南玩</li>
-<li>去看喜欢的明星的演唱会</li>
-<li>一起去海边看一次日出</li>
-<li>一起在冬天去滑雪或滑冰</li>
-<li>一起坐一次过山车，全程都要拉着手</li>
-<li>一起做摩天轮</li>
-<li>一起逛超市买菜、做一顿饭</li>
-<li>在下雨天窝在家里看剧</li>
-<li>一起打游戏</li>
-<li>在人来人往的大街或者操场亲吻一次</li>
-<li>一起穿情侣装逛街</li>
-<li>一起过生日</li>
-<li>一起去做一次陶艺</li>
-<li>偷偷为对方买喜欢又舍不得的东西</li>
-<li>一起去参加一次别人的婚礼</li>
-<li>帮对方吹头发</li>
-<li>帮对方剪一次指甲</li>
-<li>用同一副耳机听歌</li>
-<li>约三俩好友在家里玩一次桌游</li>
-<li>用同一根吸管喝同一杯饮料</li>
-<li>一起躺在沙发上敷面膜</li>
-<li>一起去运动、打羽毛球</li>
-<li>分享彼此的一个小秘密</li>
-<li>喝一杯交杯酒</li>
-<li>对视一分钟</li>
-<li>一起去图书馆学习</li>
-<li>过一次只有两个人的生日</li>
-<li>一起放孔明灯</li>
-<li>一起去动物园</li>
-<li>为对方化一次妆</li>
-<li>春天去公园划船</li>
-<li>一起坐一次蛋糕</li>
-<li>学对方的口头禅</li>
-<li>一起坐火车去旅行</li>
-<li>一起玩一次真心话大冒险</li>
-<li>拍一次情侣写真</li>
-<li>在对方的耳边轻声说”我爱你”</li>
-<li>一起放风筝</li>
-<li>为对方按摩一次</li>
-<li>一起做一顿早餐</li>
-<li>用勺子比赛吃西瓜</li>
-<li>一起包一次饺子</li>
-<li>背着Nana走一段路</li>
-<li>一起堆雪人</li>
-<li>在KTV合唱一首歌</li>
-<li>一起去寺庙里祈福</li>
-<li>一起庆祝恋爱纪念日</li>
-<li>一起看樱花</li>
-<li>至少接对方下班一次</li>
-<li>好好跟对方进行一次表白</li>
-<li>给对方亲笔写一封告白信</li>
-<li>一起过圣诞节，给对方一个踏实的拥抱</li>
-<li>去对方的小学、中学、大学看看</li>
-<li>去逛一次海底世界</li>
-<li>一起组装家具</li>
-<li>去午夜看一场恐怖电影</li>
-<li>一起睡个懒觉，赖个床</li>
-<li>一起换发型，剪头发</li>
-<li>一起去一次教堂</li>
-<li>一起去爬山、露营、看日出</li>
-<li>一起去当志愿者</li>
-<li>一起大扫除</li>
-<li>一起完成一副拼图</li>
-<li>一起去坐热气球</li>
-<li>一起戴情侣对戒</li>
-<li>一起跨年，大声说新年快乐</li>
-<li>一起出国旅行</li>
-<li>生病时要陪在对方身边</li>
-<li>吐槽对方一个坏毛病，并且要一起改正</li>
-<li>多多夸赞对方</li>
-<li>为对方削一个苹果</li>
-<li>多拍合照</li>
-<li>陪Nana过一次六一儿童节</li>
-<li>壁咚Nana</li>
-<li>把对方介绍给自己的朋友</li>
-<li>一起打卡网红店</li>
-<li>一起养小宠物</li>
-<li>一起种花</li>
-<li>在家靠在一起发呆</li>
-<li>一起努力进步</li>
-<li>一起为去见对方的家人做准备</li>
-<li>一起洗几次澡</li>
-<li>一起挑选戒指</li>
-<li>一起挑选婚纱</li>
-<li>去领证</li>
-<li>一起给未来的宝宝取名字</li>
-<li>一直在一起</li>
-</ol>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>Gallery of Love</title>
-    <url>/Love/photo.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
     <title>Dota 2</title>
     <url>/blog/Dota2.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="note primary"><p>二次元Dota 2,<span class="exturl" data-url="aHR0cHM6Ly93ZWliby5jb20vMzg3MjgzODU3OA==">原作者微博<i class="fa fa-external-link-alt"></i></span></p>
 </div>
 <div class="group-picture"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img data-src="Dota2/ti10/Windranger.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img data-src="Dota2/ti10/AM.jpg" alt=""></div></div><div class="group-picture-row"></div><div class="group-picture-row"></div><div class="group-picture-row"></div></div><script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
-  </entry>
-  <entry>
-    <title>点滴记录</title>
-    <url>/Love/records.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="初见-2021年5月2日~4日"><a class="markdownIt-Anchor" href="#初见-2021年5月2日~4日"></a> 初见  2021年5月2日~4日</h4>
-<p>CC去广州找Nana玩，天公不作美，几乎连下三天雨。我们在正佳广场没找到合适的吃饭地，索性一起去看了电影《悬崖之上》；在蛙小侠吃了牛蛙，去了逛一个以为可以划船的公园；最后一天一起逛了南校去区，一起吃了蔡澜港式点心。很开心的五一假期。</p>
-<h4 id="二见倾心-5月16日"><a class="markdownIt-Anchor" href="#二见倾心-5月16日"></a> 二见倾心 5月16日</h4>
-<p>Nana前几天说听到我再去找她玩有点开心，但不知道我什么意思，我明确表示想和她在一起。然后周日CC和Nana在长隆欢乐世界游玩。 我们最喜欢的是下午的魔术表演，最后一幕：把一个人的手锁着然后把他吊起来，最后这个人不仅逃脱了还出现在观众席的最后面，我们俩都惊呆了！我们只玩了一些比较温和的项目，比如飞椅，空中警察（旋转小飞机），音乐船。</p>
-<p>晚上快分别的时候CC向Nana袒露心迹， 一起约定继续相处发展。</p>
-<h4 id="520表白成功"><a class="markdownIt-Anchor" href="#520表白成功"></a> 520表白成功</h4>
-<h4 id="确定关系后的第一次约会-5月23日"><a class="markdownIt-Anchor" href="#确定关系后的第一次约会-5月23日"></a> 确定关系后的第一次约会 5月23日</h4>
-<p>Nana来深圳找CC玩。</p>
-<script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
@@ -748,12 +576,182 @@ DOI:<span class="exturl" data-url="aHR0cHM6Ly9keC5kb2kub3JnLzEwLjQzMTAvSEhBLjIwM
   </entry>
   <entry>
     <title>我们</title>
-    <url>/Love/index.html</url>
+    <url>/NaNa/index.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>一个人若能做自己喜欢做的事，并且靠这养活自己，同时能和自己喜欢的人在一起，并且使他们感到快乐，即可称为幸福。 --周国平</p>
 <hr>
-<div style="text-align:center;">
-<a href="https://lipcaty.github.io/Love/" target="_Blank">娜娜💘💘鹏程 在一起多久了呢 📅</a>
-</div>
+<div style="text-align:center;"><a href="https://lipcaty.github.io/Love/" target="_Blank">娜娜💘💘鹏程 在一起多久了呢 📅</a></div>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>Gallery of Love</title>
+    <url>/NaNa/photo.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>❤️ Our Love List ❤️</title>
+    <url>/NaNa/list.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ol>
+<li>一起吃好多好多次饭!! 多亲亲抱抱!!</li>
+<li>希望我们不要吵架！ Nana非常害怕吵架的！</li>
+<li>多多约奶茶 ❤️</li>
+<li>手牵手逛街逛校园轧马路。❤️</li>
+<li>去大连玩，去大连理工大学拍连理照</li>
+<li>一起去上海Disney，看烟花</li>
+<li>去Nana家做客 去海南玩</li>
+<li>去看喜欢的明星的演唱会</li>
+<li>一起去海边看一次日出</li>
+<li>一起在冬天去滑雪或滑冰</li>
+<li>一起坐一次过山车，全程都要拉着手</li>
+<li>一起做摩天轮</li>
+<li>一起逛超市买菜、做一顿饭</li>
+<li>在下雨天窝在家里看剧</li>
+<li>一起打游戏</li>
+<li>在人来人往的大街或者操场亲吻一次</li>
+<li>一起穿情侣装逛街</li>
+<li>一起过生日</li>
+<li>一起去做一次陶艺</li>
+<li>偷偷为对方买喜欢又舍不得的东西</li>
+<li>一起去参加一次别人的婚礼</li>
+<li>帮对方吹头发</li>
+<li>帮对方剪一次指甲</li>
+<li>用同一副耳机听歌</li>
+<li>约三俩好友在家里玩一次桌游</li>
+<li>用同一根吸管喝同一杯饮料</li>
+<li>一起躺在沙发上敷面膜</li>
+<li>一起去运动、打羽毛球</li>
+<li>分享彼此的一个小秘密</li>
+<li>喝一杯交杯酒</li>
+<li>对视一分钟</li>
+<li>一起去图书馆学习</li>
+<li>过一次只有两个人的生日</li>
+<li>一起放孔明灯</li>
+<li>一起去动物园</li>
+<li>为对方化一次妆</li>
+<li>春天去公园划船</li>
+<li>一起坐一次蛋糕</li>
+<li>学对方的口头禅</li>
+<li>一起坐火车去旅行</li>
+<li>一起玩一次真心话大冒险</li>
+<li>拍一次情侣写真</li>
+<li>在对方的耳边轻声说”我爱你”</li>
+<li>一起放风筝</li>
+<li>为对方按摩一次</li>
+<li>一起做一顿早餐</li>
+<li>用勺子比赛吃西瓜</li>
+<li>一起包一次饺子</li>
+<li>背着Nana走一段路</li>
+<li>一起堆雪人</li>
+<li>在KTV合唱一首歌</li>
+<li>一起去寺庙里祈福</li>
+<li>一起庆祝恋爱纪念日</li>
+<li>一起看樱花</li>
+<li>至少接对方下班一次</li>
+<li>好好跟对方进行一次表白</li>
+<li>给对方亲笔写一封告白信</li>
+<li>一起过圣诞节，给对方一个踏实的拥抱</li>
+<li>去对方的小学、中学、大学看看</li>
+<li>去逛一次海底世界</li>
+<li>一起组装家具</li>
+<li>去午夜看一场恐怖电影</li>
+<li>一起睡个懒觉，赖个床</li>
+<li>一起换发型，剪头发</li>
+<li>一起去一次教堂</li>
+<li>一起去爬山、露营、看日出</li>
+<li>一起去当志愿者</li>
+<li>一起大扫除</li>
+<li>一起完成一副拼图</li>
+<li>一起去坐热气球</li>
+<li>一起戴情侣对戒</li>
+<li>一起跨年，大声说新年快乐</li>
+<li>一起出国旅行</li>
+<li>生病时要陪在对方身边</li>
+<li>吐槽对方一个坏毛病，并且要一起改正</li>
+<li>多多夸赞对方</li>
+<li>为对方削一个苹果</li>
+<li>多拍合照</li>
+<li>陪Nana过一次六一儿童节</li>
+<li>壁咚Nana</li>
+<li>把对方介绍给自己的朋友</li>
+<li>一起打卡网红店</li>
+<li>一起养小宠物</li>
+<li>一起种花</li>
+<li>在家靠在一起发呆</li>
+<li>一起努力进步</li>
+<li>一起为去见对方的家人做准备</li>
+<li>一起洗几次澡</li>
+<li>一起挑选戒指</li>
+<li>一起挑选婚纱</li>
+<li>去领证</li>
+<li>一起给未来的宝宝取名字</li>
+<li>一直在一起</li>
+</ol>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
+    <title>点滴记录</title>
+    <url>/NaNa/records.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="初见-2021年5月2日~4日"><a class="markdownIt-Anchor" href="#初见-2021年5月2日~4日"></a> 初见  2021年5月2日~4日</h4>
+<p>CC去广州找Nana玩，天公不作美，几乎连下三天雨。我们在正佳广场没找到合适的吃饭地，索性一起去看了电影《悬崖之上》；在蛙小侠吃了牛蛙，去了逛一个以为可以划船的公园；最后一天一起逛了南校去区，一起吃了蔡澜港式点心。很开心的五一假期。</p>
+<h4 id="二见倾心-5月16日"><a class="markdownIt-Anchor" href="#二见倾心-5月16日"></a> 二见倾心 5月16日</h4>
+<p>Nana前几天说听到我再去找她玩有点开心，但不知道我什么意思，我明确表示想和她在一起。然后周日CC和Nana在长隆欢乐世界游玩。 我们最喜欢的是下午的魔术表演，最后一幕：把一个人的手锁着然后把他吊起来，最后这个人不仅逃脱了还出现在观众席的最后面，我们俩都惊呆了！我们只玩了一些比较温和的项目，比如飞椅，空中警察（旋转小飞机），音乐船。</p>
+<p>晚上快分别的时候CC向Nana袒露心迹， 一起约定继续相处发展。</p>
+<h4 id="520表白成功"><a class="markdownIt-Anchor" href="#520表白成功"></a> 520表白成功</h4>
+<h4 id="确定关系后的第一次约会-5月23日"><a class="markdownIt-Anchor" href="#确定关系后的第一次约会-5月23日"></a> 确定关系后的第一次约会 5月23日</h4>
+<p>Nana来深圳找CC玩。</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
