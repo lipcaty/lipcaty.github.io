@@ -221,7 +221,7 @@ body {
   background: var(--body-bg-color);
   box-sizing: border-box;
   color: var(--text-color);
-  font-family: Monda, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.125em;
   line-height: 2;
   min-height: 100%;
@@ -234,7 +234,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Amita, Monda, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Amita, Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
@@ -1057,7 +1057,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Lobster Two, Monda, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Helvetica, Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   line-height: 1.5;
@@ -1167,35 +1167,6 @@ pre code {
 }
 .use-motion .menu-item {
   visibility: hidden;
-}
-.book-mark-link {
-  border-bottom: 0;
-  position: fixed;
-  top: -10px;
-  transition: top 0.3s;
-  right: 30px;
-}
-@media (max-width: 991px) {
-  .book-mark-link {
-    right: 20px;
-  }
-}
-@media (max-width: 991px) {
-  .book-mark-link {
-    display: none;
-  }
-}
-.book-mark-link::before {
-  color: #5d9b8c;
-  font-size: 32px;
-  line-height: 1;
-  content: '\f02e';
-  font-family: 'Font Awesome 6 Free';
-  font-weight: 900;
-}
-.book-mark-link:hover,
-.book-mark-link-fixed {
-  top: -2px;
 }
 .github-corner :hover .octo-arm {
   animation: octocat-wave 560ms ease-in-out;
@@ -1761,7 +1732,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Monsterrat, Monda, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Monsterrat, Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -1771,12 +1742,12 @@ pre code {
 }
 @media (min-width: 992px) {
   .post-body {
-    text-align: justify;
+    text-align: start;
   }
 }
 @media (max-width: 991px) {
   .post-body {
-    text-align: justify;
+    text-align: start;
   }
 }
 .post-body h1 .header-anchor,
@@ -1948,7 +1919,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Monsterrat, Monda, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Monsterrat, Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
