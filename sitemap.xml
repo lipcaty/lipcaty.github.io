@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lipcaty.github.io/blog/love.html</loc>
+    
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lipcaty.github.io/CV/index.html</loc>
     
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://lipcaty.github.io/blog/love.html</loc>
+    <loc>https://lipcaty.github.io/favicon/manifest.json</loc>
     
     <lastmod>2023-03-13</lastmod>
     
@@ -103,7 +112,7 @@
 
   <url>
     <loc>https://lipcaty.github.io/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

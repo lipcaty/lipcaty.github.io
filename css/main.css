@@ -1232,6 +1232,7 @@ pre code {
   border: 1px solid #eee;
   max-width: 120px;
   padding: 2px;
+  border-radius: 50%;
 }
 .site-author-name {
   color: var(--text-color);
@@ -2469,7 +2470,7 @@ mjx-container[display='true'] + br {
 .main-inner {
   border-radius: initial;
   box-sizing: border-box;
-  width: calc(100% - 252px);
+  width: calc(100% - 262px);
 }
 @media (max-width: 991px) {
   .main-inner {
@@ -2478,7 +2479,7 @@ mjx-container[display='true'] + br {
   }
 }
 .footer-inner {
-  padding-left: 252px;
+  padding-left: 262px;
 }
 @media (max-width: 991px) {
   .footer-inner {
@@ -2488,7 +2489,7 @@ mjx-container[display='true'] + br {
   }
 }
 .column {
-  width: 240px;
+  width: 250px;
 }
 @media (max-width: 991px) {
   .column {
