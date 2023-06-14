@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lipcaty.github.io/index.html</loc>
+    
+    <lastmod>2023-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lipcaty.github.io/teaching/23/Topology.html</loc>
     
     <lastmod>2023-06-14</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://lipcaty.github.io/teaching/22/LA2022.html</loc>
     
     <lastmod>2023-06-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lipcaty.github.io/index.html</loc>
-    
-    <lastmod>2023-05-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
